@@ -558,10 +558,10 @@
         console.log(typed_strings)
         var typed = new Typed('.text-slider', {
             strings: typed_strings.split(','),
-            typeSpeed: 80,
+            typeSpeed: 90,
             loop: true,
             backDelay: 1100,
-            backSpeed: 30
+            backSpeed: 70
         });
     }
 
