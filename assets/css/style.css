@@ -16,8 +16,6 @@
 	02. Header
     03. Hero
 	04. Footer
-
------------------------------------------------------------------------------------*/
 /*===========================
     1. COMMON css 
 ===========================*/
@@ -335,9 +333,9 @@ p {
     background: #fff;
     color: #0e1133; }
     .appie-section-title .main-btn:hover {
-      background: #ff3e66;
+      background: #f50000;
       color: #fff;
-      border-color: #ff3e66; }
+      border-color: #f50000; }
   .appie-section-title.appie-section-title-2 .appie-title {
     color: #fff; }
   .appie-section-title.appie-section-title-2 p {
@@ -358,7 +356,7 @@ p {
     border-radius: 6px;
     color: #fff; }
   .back-to-top.back-to-top-2 a {
-    background: #ff3e66; }
+    background: #f50000; }
   .back-to-top.back-to-top-3 a {
     background: #ff6b58; }
   .back-to-top.back-to-top-6 a {
@@ -882,12 +880,12 @@ p {
   right: 0;
   z-index: 999; }
   .appie-header-area.appie-header-2-area .appie-btn-box .main-btn {
-    background: #ff3e66;
+    background: #f50000;
     border-radius: 30px;
-    border-color: #ff3e66; }
+    border-color: #f50000; }
     .appie-header-area.appie-header-2-area .appie-btn-box .main-btn:hover {
       background: transparent;
-      color: #ff3e66; }
+      color: #f50000; }
   .appie-header-area.appie-header-3-area.appie-sticky.sticky {
     background: #0e1133; }
   .appie-header-area.appie-header-4-area.appie-sticky.sticky {
@@ -1639,8 +1637,8 @@ transform: scaleY(1);
     .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns {
       margin-top: 35px; }
       .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns .main-btn {
-        border-color: #ff6b58;
-        color: #ff6b58;
+        border-color: #ff0000;
+        color: #ff0000;
         background: transparent;
         margin-right: 14px; }
       .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns .appie-video-popup {
@@ -1715,7 +1713,7 @@ transform: scaleY(1);
         border-color: rgba(255, 255, 255, 0.2);
         color: #fff; }
         .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .hero-btns .main-btn:hover {
-          background: #f84a6e;
+          background: #ff0000;
           color: #fff; }
   .appie-hero-area .hero-shape-1 {
     position: absolute;
@@ -2005,7 +2003,7 @@ transform: scaleY(1);
     height: 500px;
     width: 500px;
     transform: translate(-50%, -50%);
-    background: #ff3e66;
+    background: #f50000;
     border-radius: 50%;
     z-index: -1; }
   .appie-hero-thumb.appie-hero-thumb-4::before {
@@ -2082,7 +2080,7 @@ transform: scaleY(1);
 .appie-hero-content-2 > span {
   font-size: 16px;
   font-weight: 500;
-  color: #ff3e66;
+  color: #f50000;
   position: relative; }
   .appie-hero-content-2 > span::before {
     position: absolute;
@@ -2141,7 +2139,7 @@ transform: scaleY(1);
     height: 60px;
     border-radius: 40px;
     border: 0;
-    border-left: 3px solid #ff3e66;
+    border-left: 3px solid #f50000;
     padding-left: 55px;
     box-shadow: -3px 0px 0px 0px rgba(255, 62, 102, 0.004), 0px 30px 30px 0px rgba(14, 17, 51, 0.1); }
   .appie-hero-content-2 .input-box button {
@@ -2156,7 +2154,7 @@ transform: scaleY(1);
     background: #fff;
     border-radius: 50%;
     border: 0;
-    color: #ff3e66; }
+    color: #f50000; }
 .appie-hero-content-2 .hero-users {
   display: flex;
   align-items: center;
@@ -2386,7 +2384,7 @@ transform: scaleY(1);
     color: #505056;
     margin-top: 23px; }
     .appie-single-service-2 a:hover {
-      color: #ff3e66; }
+      color: #f50000; }
   .appie-single-service-2:hover {
     box-shadow: 0px -3px 0px 0px rgba(234, 76, 137, 0.004), 0px 40px 40px 0px rgba(14, 17, 51, 0.1);
     border-top: 3px solid #2eacfc;
@@ -2716,7 +2714,7 @@ transform: scaleY(1);
       top: 0;
       height: 30px;
       width: 30px;
-      background: #ff3e66;
+      background: #f50000;
       border: 6px solid #2a182d;
       border-radius: 50%; }
   .appie-features-box-item p {
@@ -2725,7 +2723,7 @@ transform: scaleY(1);
     color: #fff;
     margin-top: 3px; }
   .appie-features-box-item:hover {
-    border-color: #ff3e66; }
+    border-color: #f50000; }
   .appie-features-box-item.item-2 .title::before {
     background: #2eacfc;
     border-color: #15233d; }
@@ -3008,9 +3006,9 @@ transform: scaleY(1);
   z-index: 9;
   cursor: pointer; }
   .appie-testimonial-slider-2 .slick-arrow:hover {
-    background: #ff3e66;
+    background: #f50000;
     color: #fff;
-    border-color: #ff3e66; }
+    border-color: #f50000; }
   .appie-testimonial-slider-2 .slick-arrow.prev {
     right: 60px; }
   .appie-testimonial-slider-2 .slick-arrow.next {
@@ -3519,8 +3517,8 @@ transform: scaleY(1);
     .pricing-one__single.pricing-one__single_2 .pricig-body .pricing-btn a {
       border-radius: 30px; }
       .pricing-one__single.pricing-one__single_2 .pricig-body .pricing-btn a:hover {
-        background: #ff3e66;
-        border-color: #ff3e66; }
+        background: #f50000;
+        border-color: #f50000; }
     .pricing-one__single.pricing-one__single_2 .pricig-body .pricing-rebon {
       right: 0;
       top: 20px; }
@@ -3529,18 +3527,18 @@ transform: scaleY(1);
         background: #2a6df5;
         box-shadow: none; }
     .pricing-one__single.pricing-one__single_2.active {
-      border-top: 3px solid #ff3e66;
+      border-top: 3px solid #f50000;
       box-shadow: 0px -3px 0px 0px rgba(255, 62, 102, 0.004), 0px 40px 40px 0px rgba(14, 17, 51, 0.1); }
       .pricing-one__single.pricing-one__single_2.active .pricig-body .pricing-btn a {
-        background: #ff3e66;
-        border-color: #ff3e66;
+        background: #f50000;
+        border-color: #f50000;
         color: #fff; }
     .pricing-one__single.pricing-one__single_2.item-2 .pricig-body ul li i {
       background: #effaf3;
       color: #31c369; }
     .pricing-one__single.pricing-one__single_2:hover {
       border-color: #fff;
-      border-top: 3px solid #ff3e66;
+      border-top: 3px solid #f50000;
       transform: translateY(-10px); }
 
 .appie-pricing-2-area .appie-section-title .nav {
@@ -3559,7 +3557,7 @@ transform: scaleY(1);
       padding: 5px 20px; }
       .appie-pricing-2-area .appie-section-title .nav li a.active {
         color: #fff;
-        background: #ff3e66; }
+        background: #f50000; }
 
 .appie-pricing-6-area .pricing-one__single .pricing-rebon span {
   background: #9b2cfa;
@@ -4934,7 +4932,7 @@ blockquote cite {
           background: #ff0000;
           color: #fff; }
   .footer-about-widget.footer-about-widget-2 ul li a:hover {
-    background: #ff3e66; }
+    background: #f50000; }
   .footer-about-widget.footer-about-widget-3 ul li a:hover {
     background: #ff6b58; }
   .footer-about-widget.footer-about-widget-6 ul li a:hover {
@@ -4963,7 +4961,7 @@ blockquote cite {
       .footer-navigation ul li a:hover {
         color: #ff0000; }
   .footer-navigation.footer-navigation-2 ul li a:hover {
-    color: #ff3e66; }
+    color: #f50000; }
   .footer-navigation.footer-navigation-3 ul li a:hover {
     color: #ff6b58; }
   .footer-navigation.footer-navigation-6 ul li a:hover {
@@ -5249,7 +5247,7 @@ blockquote cite {
   .appie-about-content span {
     font-size: 14px;
     font-weight: 500;
-    color: #ff3e66; }
+    color: #f50000; }
   .appie-about-content .title {
     font-size: 44px;
     line-height: 54px;
@@ -5634,9 +5632,9 @@ blockquote cite {
   z-index: 9;
   cursor: pointer; }
   .appie-video-player-slider .slick-arrow:hover {
-    background: #ff3e66;
+    background: #f50000;
     color: #fff;
-    border-color: #ff3e66; }
+    border-color: #f50000; }
   .appie-video-player-slider .slick-arrow.prev {
     right: 60px; }
   .appie-video-player-slider .slick-arrow.next {
@@ -5666,7 +5664,7 @@ blockquote cite {
       background: #fff;
       text-align: center;
       line-height: 90px;
-      color: #ff3e66;
+      color: #f50000;
       border-radius: 50%;
       font-size: 20px;
       position: relative; }
@@ -5705,7 +5703,7 @@ blockquote cite {
     color: #0e1133;
     margin-top: 33px; }
     .appie-video-player-item .content a:hover {
-      background: #ff3e66;
+      background: #f50000;
       border-color: #fff;
       color: #fff; }
 
@@ -5792,7 +5790,7 @@ blockquote cite {
 .appie-download-content > span {
   font-size: 14px;
   font-weight: 500;
-  color: #ff3e66; }
+  color: #f50000; }
 .appie-download-content .title {
   font-size: 44px;
   line-height: 54px;
