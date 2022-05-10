@@ -4931,4 +4931,6 @@ readers do not read off random characters that represent icons */
 .fa,
 .fas {
   font-family: 'Font Awesome 5 Pro';
-  font-weight: 900; }
+  font-weight: 900;
+  src: url("../fonts/fa-brands-400.eot");
+  src: url("../fonts/fa-brands-400.eot?#iefix")format("embedded-opentype"),url("../fonts/fa-brands-400.woff2")format("woff2"),url("../fonts/fa-brands-400.woff")format("woff"),url("../fonts/fa-brands-400.ttf")format("truetype")}
