@@ -2,25 +2,25 @@
 
 
 /*===========================
-    12.APPIE COUNTER css 
+    12.Nearoo COUNTER css 
 ===========================*/
 
 
 
 
-.appie-counter-area{
+.Nearoo-counter-area{
 	@media #{$md} {
 		padding-bottom: 100px;
 	}
 	@media #{$xs} {
 		padding-bottom: 100px;
 	}
-	&.appie-counter-5-area{
+	&.Nearoo-counter-5-area{
 		background: $grey;
 	}
 }
 
-.appie-single-counter{
+.Nearoo-single-counter{
 	padding: 30px;
 	position: relative;
 	background: $white;

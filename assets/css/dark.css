@@ -1,230 +1,230 @@
 /*dark css*/
 
 
-.appie-dark{
+.Nearoo-dark{
 	background: #292E3C;
 }
 
-.appie-header-area-dark .appie-header-main-menu ul > li > a{
+.Nearoo-header-area-dark .Nearoo-header-main-menu ul > li > a{
 	color: #fff;
 }
-.appie-header-area-dark .header-nav-box .appie-btn-box .login-btn{
-	color: #fff;
-}
-
-
-
-.appie-hero-area-dark .appie-hero-content .appie-title{
+.Nearoo-header-area-dark .header-nav-box .Nearoo-btn-box .login-btn{
 	color: #fff;
 }
 
-.appie-hero-area-dark .appie-hero-content p{
+
+
+.Nearoo-hero-area-dark .Nearoo-hero-content .Nearoo-title{
 	color: #fff;
 }
 
-.appie-hero-area-dark .appie-hero-content ul li a{
+.Nearoo-hero-area-dark .Nearoo-hero-content p{
+	color: #fff;
+}
+
+.Nearoo-hero-area-dark .Nearoo-hero-content ul li a{
 	background: #fff;
 	border-color: #fff;
 	color: #0e1133;
 }
 
-.appie-hero-area-dark .appie-hero-content ul li a:hover{
+.Nearoo-hero-area-dark .Nearoo-hero-content ul li a:hover{
 	background: transparent;
 	color: #fff;
 }
 
-.appie-hero-area-dark .appie-hero-content ul li a.item-2{
+.Nearoo-hero-area-dark .Nearoo-hero-content ul li a.item-2{
 	color: #fff;
 }
-.appie-hero-area-dark .appie-hero-content ul li a.item-2:hover{
+.Nearoo-hero-area-dark .Nearoo-hero-content ul li a.item-2:hover{
 	background: #fff;
 	color: #0e1133;
 }
 
-.appie-service-area.appie-service-area-dark{
+.Nearoo-service-area.Nearoo-service-area-dark{
 	background: #1f2128;
 }
 
-.appie-service-area-dark .appie-section-title .appie-title{
+.Nearoo-service-area-dark .Nearoo-section-title .Nearoo-title{
 	color: #fff;
 }
-.appie-service-area-dark .appie-section-title p{
+.Nearoo-service-area-dark .Nearoo-section-title p{
 	color: #fff;
 }
 
-.appie-service-area-dark  .appie-single-service{
+.Nearoo-service-area-dark  .Nearoo-single-service{
 	background: #292E3C;
 }
 
-.appie-service-area-dark .appie-single-service p,
-.appie-service-area-dark .appie-single-service .appie-title{
+.Nearoo-service-area-dark .Nearoo-single-service p,
+.Nearoo-service-area-dark .Nearoo-single-service .Nearoo-title{
 	color: #fff;
 }
 
-.appie-features-area-dark  .appie-features-tabs-btn .nav a{
+.Nearoo-features-area-dark  .Nearoo-features-tabs-btn .nav a{
 	color: #fff;
 }
 
-.appie-features-area-dark .appie-features-content p,
-.appie-features-area-dark .appie-features-content .title{
+.Nearoo-features-area-dark .Nearoo-features-content p,
+.Nearoo-features-area-dark .Nearoo-features-content .title{
 	color: #fff;
 }
 
-.appie-traffic-area-dark .appie-traffic-title p,
-.appie-traffic-area-dark .appie-traffic-title .title{
+.Nearoo-traffic-area-dark .Nearoo-traffic-title p,
+.Nearoo-traffic-area-dark .Nearoo-traffic-title .title{
 	color: #fff;
 }
 
-.appie-traffic-area-dark .appie-traffic-service p,
-.appie-traffic-area-dark .appie-traffic-service .title{
+.Nearoo-traffic-area-dark .Nearoo-traffic-service p,
+.Nearoo-traffic-area-dark .Nearoo-traffic-service .title{
 	color: #fff;
 }
 
-.appie-traffic-area-dark .traffic-btn a.main-btn{
+.Nearoo-traffic-area-dark .traffic-btn a.main-btn{
 	color: #fff;
 }
-.appie-traffic-area-dark .traffic-btn a.main-btn:hover{
+.Nearoo-traffic-area-dark .traffic-btn a.main-btn:hover{
 	background: #fff;
 	color: #ff0000;
 }
 
-.appie-team-area-dark .appie-section-title p,
-.appie-team-area-dark .appie-section-title .appie-title{
+.Nearoo-team-area-dark .Nearoo-section-title p,
+.Nearoo-team-area-dark .Nearoo-section-title .Nearoo-title{
 	color: #fff;
 }
 
-.appie-team-area-dark .appie-team-item .content span,
-.appie-team-area-dark .appie-team-item .content .title{
+.Nearoo-team-area-dark .Nearoo-team-item .content span,
+.Nearoo-team-area-dark .Nearoo-team-item .content .title{
 	color: #fff;
 }
 
-.appie-team-area-dark .team-btn a{
+.Nearoo-team-area-dark .team-btn a{
 	color: #fff;
 }
 
 
 
-.appie-faq-area-dark.appie-faq-area,
-.appie-pricing-area-dark.appie-pricing-area{
+.Nearoo-faq-area-dark.Nearoo-faq-area,
+.Nearoo-pricing-area-dark.Nearoo-pricing-area{
 	background: #1f2128;
 }
 
-.appie-pricing-area-dark .appie-section-title p,
-.appie-pricing-area-dark .appie-section-title .appie-title{
+.Nearoo-pricing-area-dark .Nearoo-section-title p,
+.Nearoo-pricing-area-dark .Nearoo-section-title .Nearoo-title{
 	color: #fff;
 }
 
 
 
-.appie-pricing-area-dark.appie-pricing-area ul.switch-toggler-list li a{
+.Nearoo-pricing-area-dark.Nearoo-pricing-area ul.switch-toggler-list li a{
 	color: #fff;
 	opacity: 0.1;
 }
-.appie-pricing-area-dark.appie-pricing-area ul.switch-toggler-list li.active a{
+.Nearoo-pricing-area-dark.Nearoo-pricing-area ul.switch-toggler-list li.active a{
 	color: #fff;
 	opacity: 1;
 }
 
 
-.appie-pricing-area-dark.appie-pricing-area .pricing-one__single{
+.Nearoo-pricing-area-dark.Nearoo-pricing-area .pricing-one__single{
 	background: #292E3C;
 	color: #fff;
 }
 
-.appie-pricing-area-dark .pricing-one__single .pricig-heading h6{
+.Nearoo-pricing-area-dark .pricing-one__single .pricig-heading h6{
 	color: #fff;
 }
 
-.appie-pricing-area-dark .pricing-one__single .pricig-heading .price-range{
+.Nearoo-pricing-area-dark .pricing-one__single .pricig-heading .price-range{
 	color: #fff;
 }
 
-.appie-pricing-area-dark .pricing-one__single .pricig-heading .price-range p{
+.Nearoo-pricing-area-dark .pricing-one__single .pricig-heading .price-range p{
 	color: #fff;
 }
 
-.appie-pricing-area-dark .pricing-one__single .pricig-heading > p{
+.Nearoo-pricing-area-dark .pricing-one__single .pricig-heading > p{
 	color: #fff;
 }
 
-.appie-pricing-area-dark .pricing-one__single .pricig-body ul li{
+.Nearoo-pricing-area-dark .pricing-one__single .pricig-body ul li{
 	color: #fff;
 }
 
-.appie-pricing-area-dark  .pricing-one__single .pricig-body .pricing-btn a{
-	color: #fff;
-}
-
-
-
-
-.appie-faq-area.appie-faq-area-dark .appie-section-title p,
-.appie-faq-area.appie-faq-area-dark .appie-section-title .appie-title{
+.Nearoo-pricing-area-dark  .pricing-one__single .pricig-body .pricing-btn a{
 	color: #fff;
 }
 
 
-.appie-faq-area.appie-faq-area-dark .faq-accrodion .accrodion{
+
+
+.Nearoo-faq-area.Nearoo-faq-area-dark .Nearoo-section-title p,
+.Nearoo-faq-area.Nearoo-faq-area-dark .Nearoo-section-title .Nearoo-title{
+	color: #fff;
+}
+
+
+.Nearoo-faq-area.Nearoo-faq-area-dark .faq-accrodion .accrodion{
 	background: #292E3C;
 	
 }
-.appie-faq-area.appie-faq-area-dark .faq-accrodion .accrodion .accrodion-inner,
-.appie-faq-area.appie-faq-area-dark .faq-accrodion .accrodion.active .accrodion-inner{
+.Nearoo-faq-area.Nearoo-faq-area-dark .faq-accrodion .accrodion .accrodion-inner,
+.Nearoo-faq-area.Nearoo-faq-area-dark .faq-accrodion .accrodion.active .accrodion-inner{
 	border-color: #292E3C;
 	background: #292E3C;
 }
 
-.appie-faq-area.appie-faq-area-dark .faq-accrodion .accrodion .accrodion-content p,
-.appie-faq-area.appie-faq-area-dark .faq-accrodion .accrodion .accrodion-title h4{
+.Nearoo-faq-area.Nearoo-faq-area-dark .faq-accrodion .accrodion .accrodion-content p,
+.Nearoo-faq-area.Nearoo-faq-area-dark .faq-accrodion .accrodion .accrodion-title h4{
 	color: #fff;
 }
 
-.appie-blog-area-dark .appie-section-title p,
-.appie-blog-area-dark .appie-section-title .appie-title{
+.Nearoo-blog-area-dark .Nearoo-section-title p,
+.Nearoo-blog-area-dark .Nearoo-section-title .Nearoo-title{
 	color: #fff;
 }
-.appie-blog-area-dark .appie-blog-item .content > a,
-.appie-blog-area-dark .appie-blog-item .content .title a,
-.appie-blog-area-dark .appie-blog-item .content .blog-meta ul li a,
-.appie-blog-area-dark .appie-blog-item .content .blog-meta ul li{
+.Nearoo-blog-area-dark .Nearoo-blog-item .content > a,
+.Nearoo-blog-area-dark .Nearoo-blog-item .content .title a,
+.Nearoo-blog-area-dark .Nearoo-blog-item .content .blog-meta ul li a,
+.Nearoo-blog-area-dark .Nearoo-blog-item .content .blog-meta ul li{
 	color: #fff;
 }
 
-.appie-blog-area-dark .appie-blog-item .content > a:hover,
-.appie-blog-area-dark .appie-blog-item .content .title a:hover{
+.Nearoo-blog-area-dark .Nearoo-blog-item .content > a:hover,
+.Nearoo-blog-area-dark .Nearoo-blog-item .content .title a:hover{
 	color: #ff0000;
 }
 
 
-.appie-footer-area-dark.appie-footer-area{
+.Nearoo-footer-area-dark.Nearoo-footer-area{
 	background: #1f2128;
 }
 
-.appie-footer-area-dark .footer-about-widget a,
-.appie-footer-area-dark .footer-about-widget p{
+.Nearoo-footer-area-dark .footer-about-widget a,
+.Nearoo-footer-area-dark .footer-about-widget p{
 	color: #fff;
 }
-.appie-footer-area-dark .footer-about-widget a:hover{
+.Nearoo-footer-area-dark .footer-about-widget a:hover{
 	color: #ff0000;
 }
 
-.appie-footer-area-dark .footer-widget-info ul li a,
-.appie-footer-area-dark .footer-widget-info .title,
-.appie-footer-area-dark .footer-navigation ul li a,
-.appie-footer-area-dark .footer-navigation .title{
+.Nearoo-footer-area-dark .footer-widget-info ul li a,
+.Nearoo-footer-area-dark .footer-widget-info .title,
+.Nearoo-footer-area-dark .footer-navigation ul li a,
+.Nearoo-footer-area-dark .footer-navigation .title{
 	color: #fff;
 }
-.appie-footer-area-dark .footer-navigation ul li a:hover{
+.Nearoo-footer-area-dark .footer-navigation ul li a:hover{
 	color: #ff0000;
 }
 
-.appie-footer-area-dark .footer-copyright .copyright-text p{
+.Nearoo-footer-area-dark .footer-copyright .copyright-text p{
 	color: #fff;
 }
 
-.appie-footer-area-dark  .footer-copyright .apps-download-btn ul li a:hover{
+.Nearoo-footer-area-dark  .footer-copyright .apps-download-btn ul li a:hover{
 	color: #fff;
 }
-.appie-footer-area-dark  .footer-copyright .apps-download-btn ul li a.item-2{
+.Nearoo-footer-area-dark  .footer-copyright .apps-download-btn ul li a.item-2{
 	color: #fff;
 }

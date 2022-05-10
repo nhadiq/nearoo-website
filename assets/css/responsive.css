@@ -1,4 +1,4 @@
-.appie-header-main-menu ul > li .big-device-none {
+.Nearoo-header-main-menu ul > li .big-device-none {
     display: none;
 }
 
@@ -18,11 +18,11 @@
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1200px) {
-    .appie-header-main-menu ul li .mega-menu-main-wrap {
+    .Nearoo-header-main-menu ul li .mega-menu-main-wrap {
         width: 930px;
         left: -161px;
     }
-    .appie-header-main-menu ul li .pages-mega-menu {
+    .Nearoo-header-main-menu ul li .pages-mega-menu {
         width: 933px !important;
         padding: 15px 0px !important;
         left: -237px;
@@ -32,7 +32,7 @@
         margin: 0 21px;
     }
 
-    .appie-header-main-menu ul li .pages-mega-menu.blog-mega-menu  {
+    .Nearoo-header-main-menu ul li .pages-mega-menu.blog-mega-menu  {
         width: 672px !important;
         padding: 15px 0px !important;
         left: -237px;
@@ -69,7 +69,7 @@
  
 /* Tablet desktop :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
-    .appie-header-main-menu ul > li .big-device-none {
+    .Nearoo-header-main-menu ul > li .big-device-none {
         display: block;
     } 
     .shop-small-left-slider-active {
@@ -111,7 +111,7 @@
     .animated_btn.animated_btn-ios {
         margin-bottom: 20px;
     }
-    .appie-hero-content ul li {
+    .Nearoo-hero-content ul li {
         margin-bottom: 0;
     }
  

@@ -293,52 +293,52 @@ p {
       border-color: #ff0000;
       color: #fff; }
 
-.appie-section-title {
+.Nearoo-section-title {
   padding-bottom: 25px; }
-  .appie-section-title .appie-title {
+  .Nearoo-section-title .Nearoo-title {
     font-size: 44px;
     line-height: 54px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-section-title .appie-title {
+      .Nearoo-section-title .Nearoo-title {
         font-size: 36px;
         line-height: 46px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-section-title .appie-title {
+      .Nearoo-section-title .Nearoo-title {
         font-size: 36px;
         line-height: 46px; } }
     @media (max-width: 767px) {
-      .appie-section-title .appie-title {
+      .Nearoo-section-title .Nearoo-title {
         font-size: 26px;
         line-height: 36px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-section-title .appie-title {
+      .Nearoo-section-title .Nearoo-title {
         font-size: 36px;
         line-height: 46px; } }
-  .appie-section-title p {
+  .Nearoo-section-title p {
     font-size: 18px;
     line-height: 28px;
     margin-top: 11px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-section-title p {
+      .Nearoo-section-title p {
         font-size: 15px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-section-title p {
+      .Nearoo-section-title p {
         font-size: 15px; } }
     @media (max-width: 767px) {
-      .appie-section-title p {
+      .Nearoo-section-title p {
         font-size: 15px; } }
-  .appie-section-title .main-btn {
+  .Nearoo-section-title .main-btn {
     border-radius: 30px;
     border: 2px solid #e7eaef;
     background: #fff;
     color: #0e1133; }
-    .appie-section-title .main-btn:hover {
+    .Nearoo-section-title .main-btn:hover {
       background: #f50000;
       color: #fff;
       border-color: #f50000; }
-  .appie-section-title.appie-section-title-2 .appie-title {
+  .Nearoo-section-title.Nearoo-section-title-2 .Nearoo-title {
     color: #fff; }
-  .appie-section-title.appie-section-title-2 p {
+  .Nearoo-section-title.Nearoo-section-title-2 p {
     color: #fff; }
 
 .back-to-top {
@@ -860,7 +860,7 @@ p {
 /*===========================
     2.HEADER css 
 ===========================*/
-.appie-sticky.sticky {
+.Nearoo-sticky.sticky {
   position: fixed;
   left: 0;
   top: 0;
@@ -872,110 +872,110 @@ p {
   padding-bottom: 20px;
   animation: sticky  1.2s; }
 
-.appie-header-area {
+.Nearoo-header-area {
   padding-top: 30px;
   position: absolute;
   left: 0;
   top: 0;
   right: 0;
   z-index: 999; }
-  .appie-header-area.appie-header-2-area .appie-btn-box .main-btn {
+  .Nearoo-header-area.Nearoo-header-2-area .Nearoo-btn-box .main-btn {
     background: #f50000;
     border-radius: 30px;
     border-color: #f50000; }
-    .appie-header-area.appie-header-2-area .appie-btn-box .main-btn:hover {
+    .Nearoo-header-area.Nearoo-header-2-area .Nearoo-btn-box .main-btn:hover {
       background: transparent;
       color: #f50000; }
-  .appie-header-area.appie-header-3-area.appie-sticky.sticky {
+  .Nearoo-header-area.Nearoo-header-3-area.Nearoo-sticky.sticky {
     background: #0e1133; }
-  .appie-header-area.appie-header-4-area.appie-sticky.sticky {
+  .Nearoo-header-area.Nearoo-header-4-area.Nearoo-sticky.sticky {
     background: linear-gradient(90deg, #6b1fcd 0%, #374ede 100%); }
-  .appie-header-area.appie-header-page-area.appie-sticky.sticky {
+  .Nearoo-header-area.Nearoo-header-page-area.Nearoo-sticky.sticky {
     background: #0a44b9; }
-  .appie-header-area.appie-header-7-area.appie-sticky.sticky {
+  .Nearoo-header-area.Nearoo-header-7-area.Nearoo-sticky.sticky {
     background: #290645; }
-  .appie-header-area.appie-header-error-page {
+  .Nearoo-header-area.Nearoo-header-error-page {
     box-shadow: 0px 10px 20px 0px rgba(14, 17, 51, 0.1);
     padding-top: 20px;
     padding-bottom: 20px; }
 
-.header-nav-box .appie-btn-box {
+.header-nav-box .Nearoo-btn-box {
   position: relative; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .header-nav-box .appie-btn-box {
+    .header-nav-box .Nearoo-btn-box {
       padding-right: 50px; } }
   @media (max-width: 767px) {
-    .header-nav-box .appie-btn-box {
+    .header-nav-box .Nearoo-btn-box {
       padding-right: 30px; } }
-  .header-nav-box .appie-btn-box .login-btn {
+  .header-nav-box .Nearoo-btn-box .login-btn {
     color: #0e1133;
     font-size: 15px;
     font-weight: 500; }
-    .header-nav-box .appie-btn-box .login-btn i {
+    .header-nav-box .Nearoo-btn-box .login-btn i {
       padding-right: 6px; }
   @media (max-width: 767px) {
-    .header-nav-box .appie-btn-box .main-btn {
+    .header-nav-box .Nearoo-btn-box .main-btn {
       display: none; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .header-nav-box .appie-btn-box .main-btn {
+    .header-nav-box .Nearoo-btn-box .main-btn {
       padding: 0 10px;
       display: inline-block; } }
-.header-nav-box.header-nav-box-3 .appie-header-main-menu ul > li > a {
+.header-nav-box.header-nav-box-3 .Nearoo-header-main-menu ul > li > a {
   color: #fff; }
-.header-nav-box.header-nav-box-3 .appie-header-main-menu ul > li .sub-menu li a {
+.header-nav-box.header-nav-box-3 .Nearoo-header-main-menu ul > li .sub-menu li a {
   color: #0e1133; }
-.header-nav-box.header-nav-box-3 .appie-btn-box .login-btn {
+.header-nav-box.header-nav-box-3 .Nearoo-btn-box .login-btn {
   color: #fff; }
-.header-nav-box.header-nav-box-3 .appie-btn-box .main-btn {
+.header-nav-box.header-nav-box-3 .Nearoo-btn-box .main-btn {
   background: #ff6b58;
   border-color: #ff6b58; }
-  .header-nav-box.header-nav-box-3 .appie-btn-box .main-btn:hover {
+  .header-nav-box.header-nav-box-3 .Nearoo-btn-box .main-btn:hover {
     background: transparent;
     color: #ff6b58; }
 .header-nav-box.header-nav-box-3 .toggle-btn {
   color: #fff;
   font-size: 20px; }
-.header-nav-box.header-nav-box-3.header-nav-box-inner-page .appie-btn-box .main-btn {
+.header-nav-box.header-nav-box-3.header-nav-box-inner-page .Nearoo-btn-box .main-btn {
   border-color: #fff;
   background: transparent; }
-  .header-nav-box.header-nav-box-3.header-nav-box-inner-page .appie-btn-box .main-btn:hover {
+  .header-nav-box.header-nav-box-3.header-nav-box-inner-page .Nearoo-btn-box .main-btn:hover {
     background: #fff;
     color: #ff0000; }
-.header-nav-box.header-nav-box-5 .appie-header-main-menu ul > li > a {
+.header-nav-box.header-nav-box-5 .Nearoo-header-main-menu ul > li > a {
   color: #fff; }
-.header-nav-box.header-nav-box-5 .appie-header-main-menu ul > li .sub-menu li a {
+.header-nav-box.header-nav-box-5 .Nearoo-header-main-menu ul > li .sub-menu li a {
   color: #0e1133; }
-.header-nav-box.header-nav-box-5 .appie-btn-box .login-btn {
+.header-nav-box.header-nav-box-5 .Nearoo-btn-box .login-btn {
   color: #fff; }
-.header-nav-box.header-nav-box-5 .appie-btn-box .main-btn {
+.header-nav-box.header-nav-box-5 .Nearoo-btn-box .main-btn {
   background: #f84a6e;
   border-color: #f84a6e; }
-  .header-nav-box.header-nav-box-5 .appie-btn-box .main-btn:hover {
+  .header-nav-box.header-nav-box-5 .Nearoo-btn-box .main-btn:hover {
     background: transparent;
     color: #f84a6e; }
 .header-nav-box.header-nav-box-5 .toggle-btn {
   color: #fff;
   font-size: 20px; }
-.header-nav-box.header-nav-4-box .appie-header-main-menu ul > li > a:hover {
+.header-nav-box.header-nav-4-box .Nearoo-header-main-menu ul > li > a:hover {
   color: #801f82; }
-.header-nav-box.header-nav-4-box .appie-btn-box .main-btn {
+.header-nav-box.header-nav-4-box .Nearoo-btn-box .main-btn {
   background: #801f82;
   border-color: #801f82; }
-  .header-nav-box.header-nav-4-box .appie-btn-box .main-btn:hover {
+  .header-nav-box.header-nav-4-box .Nearoo-btn-box .main-btn:hover {
     background: transparent;
     color: #801f82; }
 @media (max-width: 767px) {
-  .header-nav-box.header-nav-4-box .appie-btn-box ul {
+  .header-nav-box.header-nav-4-box .Nearoo-btn-box ul {
     margin-right: 10px; } }
-.header-nav-box.header-nav-4-box .appie-btn-box ul li {
+.header-nav-box.header-nav-4-box .Nearoo-btn-box ul li {
   display: inline-block; }
-  .header-nav-box.header-nav-4-box .appie-btn-box ul li a {
+  .header-nav-box.header-nav-4-box .Nearoo-btn-box ul li a {
     font-size: 18px;
     color: #0e1133;
     margin-left: 15px; }
-    .header-nav-box.header-nav-4-box .appie-btn-box ul li a.cart-btn {
+    .header-nav-box.header-nav-4-box .Nearoo-btn-box ul li a.cart-btn {
       position: relative; }
-      .header-nav-box.header-nav-4-box .appie-btn-box ul li a.cart-btn span {
+      .header-nav-box.header-nav-4-box .Nearoo-btn-box ul li a.cart-btn span {
         position: absolute;
         top: -7px;
         display: inline-block;
@@ -994,61 +994,61 @@ p {
   .header-nav-box.header-nav-box-6 .main-btn:hover {
     background: transparent;
     color: #9b2cfa; }
-.header-nav-box.header-nav-box-6 .appie-header-main-menu ul > li > a:hover {
+.header-nav-box.header-nav-box-6 .Nearoo-header-main-menu ul > li > a:hover {
   color: #9b2cfa; }
-.header-nav-box.header-nav-box-6 .appie-btn-box form {
+.header-nav-box.header-nav-box-6 .Nearoo-btn-box form {
   display: inline-block;
   margin-left: 18px; }
   @media (max-width: 767px) {
-    .header-nav-box.header-nav-box-6 .appie-btn-box form {
+    .header-nav-box.header-nav-box-6 .Nearoo-btn-box form {
       display: none; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .header-nav-box.header-nav-box-6 .appie-btn-box form {
+    .header-nav-box.header-nav-box-6 .Nearoo-btn-box form {
       display: inline-block; } }
-  .header-nav-box.header-nav-box-6 .appie-btn-box form .input-box {
+  .header-nav-box.header-nav-box-6 .Nearoo-btn-box form .input-box {
     position: relative; }
-    .header-nav-box.header-nav-box-6 .appie-btn-box form .input-box i {
+    .header-nav-box.header-nav-box-6 .Nearoo-btn-box form .input-box i {
       position: absolute;
       left: 20px;
       top: 50%;
       transform: translateY(-50%); }
-    .header-nav-box.header-nav-box-6 .appie-btn-box form .input-box input {
+    .header-nav-box.header-nav-box-6 .Nearoo-btn-box form .input-box input {
       width: 105px;
       padding-left: 50px;
       border: 0;
       border-left: 1px solid #ddddea;
       background: transparent; }
-.header-nav-box.header-nav-box-7 .appie-header-main-menu ul > li > a {
+.header-nav-box.header-nav-box-7 .Nearoo-header-main-menu ul > li > a {
   color: #fff; }
-  .header-nav-box.header-nav-box-7 .appie-header-main-menu ul > li > a:hover {
+  .header-nav-box.header-nav-box-7 .Nearoo-header-main-menu ul > li > a:hover {
     color: #ff0000; }
-.header-nav-box.header-nav-box-7 .appie-header-main-menu ul > li .sub-menu li a {
+.header-nav-box.header-nav-box-7 .Nearoo-header-main-menu ul > li .sub-menu li a {
   color: #505056; }
-  .header-nav-box.header-nav-box-7 .appie-header-main-menu ul > li .sub-menu li a:hover {
+  .header-nav-box.header-nav-box-7 .Nearoo-header-main-menu ul > li .sub-menu li a:hover {
     color: #ff0000; }
-.header-nav-box.header-nav-box-7 .appie-btn-box .login-btn {
+.header-nav-box.header-nav-box-7 .Nearoo-btn-box .login-btn {
   color: #fff; }
-.header-nav-box.header-nav-box-7 .appie-btn-box .toggle-btn {
+.header-nav-box.header-nav-box-7 .Nearoo-btn-box .toggle-btn {
   color: #fff; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-header-main-menu {
+  .Nearoo-header-main-menu {
     display: none; } }
 @media (max-width: 767px) {
-  .appie-header-main-menu {
+  .Nearoo-header-main-menu {
     display: none; } }
-.appie-header-main-menu ul {
+.Nearoo-header-main-menu ul {
   margin: 0;
   padding: 0;
   list-style-type: none; }
-  .appie-header-main-menu ul > li {
+  .Nearoo-header-main-menu ul > li {
     display: inline-block;
     margin-right: 30px;
     position: relative; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-header-main-menu ul > li {
+      .Nearoo-header-main-menu ul > li {
         margin-right: 14px; } }
-    .appie-header-main-menu ul > li > a {
+    .Nearoo-header-main-menu ul > li > a {
       font-size: 15px;
       font-weight: 500;
       color: #0e1133;
@@ -1058,9 +1058,9 @@ p {
  
  
 
-      .appie-header-main-menu ul > li > a i {
+      .Nearoo-header-main-menu ul > li > a i {
         padding-left: 6px; }
-    .appie-header-main-menu ul > li > .sub-menu {
+    .Nearoo-header-main-menu ul > li > .sub-menu {
       position: absolute;
       left: 0;
       /* top: 110%; */
@@ -1084,7 +1084,7 @@ p {
       transform-origin: top center;
     }
 
-      .appie-header-main-menu ul > li:hover .sub-menu {
+      .Nearoo-header-main-menu ul > li:hover .sub-menu {
         opacity: 1;
         visibility: visible;
         /* top: 100%;  */
@@ -1097,21 +1097,21 @@ p {
       
       }
 
-      .appie-header-main-menu ul > li .sub-menu > li a::before {
+      .Nearoo-header-main-menu ul > li .sub-menu > li a::before {
         display: none;
       }
 
 
       @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-        .appie-header-main-menu ul > li .sub-menu {
+        .Nearoo-header-main-menu ul > li .sub-menu {
           min-width: 200px;
           max-width: 200px; } }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
-        .appie-header-main-menu ul > li .sub-menu {
+        .Nearoo-header-main-menu ul > li .sub-menu {
           min-width: 200px;
           max-width: 200px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-header-main-menu ul > li .sub-menu {
+        .Nearoo-header-main-menu ul > li .sub-menu {
           position: relative;
           width: 100%;
           left: 0;
@@ -1138,7 +1138,7 @@ p {
           transition: 0s;
           padding: 0; } }
       @media (max-width: 767px) {
-        .appie-header-main-menu ul > li .sub-menu {
+        .Nearoo-header-main-menu ul > li .sub-menu {
           position: relative;
           width: 100%;
           left: 0;
@@ -1165,7 +1165,7 @@ p {
           transition: 0s;
           padding: 0; } }
 
-        .appie-header-main-menu ul > li .sub-menu > li {
+        .Nearoo-header-main-menu ul > li .sub-menu > li {
           position: relative;
           margin-left: 0;
           display: block;
@@ -1174,7 +1174,7 @@ p {
           margin: 3px 0;
           padding: 0px 0;
         }
-        .appie-header-main-menu ul > li .sub-menu > li::before {
+        .Nearoo-header-main-menu ul > li .sub-menu > li::before {
           content: "";
           display: block;
           width: 0;
@@ -1182,28 +1182,28 @@ p {
           position: absolute;
           transition: 1s ease-in-out;
         }
-        .appie-header-main-menu ul > li .sub-menu > li:hover:before {
+        .Nearoo-header-main-menu ul > li .sub-menu > li:hover:before {
           background: #ecf0f1;
           width: 100%;
         }
 
 
-        .appie-header-main-menu ul > li .sub-menu > li .sub-menu {
+        .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu {
           margin-left: 0px; }
           @media only screen and (min-width: 768px) and (max-width: 991px) {
-            .appie-header-main-menu ul > li .sub-menu > li .sub-menu {
+            .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu {
               margin-left: 0; } }
           @media (max-width: 767px) {
-            .appie-header-main-menu ul > li .sub-menu > li .sub-menu {
+            .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu {
               margin-left: 0; } }
-        .appie-header-main-menu ul > li .sub-menu > li .sub-nav-toggler {
+        .Nearoo-header-main-menu ul > li .sub-menu > li .sub-nav-toggler {
           color: #0e1133;
           -webkit-transition: all 0.3s ease-out 0s;
           -moz-transition: all 0.3s ease-out 0s;
           -ms-transition: all 0.3s ease-out 0s;
           -o-transition: all 0.3s ease-out 0s;
           transition: all 0.3s ease-out 0s; }
-        .appie-header-main-menu ul > li .sub-menu > li a {
+        .Nearoo-header-main-menu ul > li .sub-menu > li a {
           display: block;
           padding: 0px 30px;
           position: relative;
@@ -1217,26 +1217,26 @@ p {
           margin: 0 0;
           line-height: 2.5; }
           @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-            .appie-header-main-menu ul > li .sub-menu > li a {
+            .Nearoo-header-main-menu ul > li .sub-menu > li a {
               padding: 0 20px; } }
           @media only screen and (min-width: 992px) and (max-width: 1200px) {
-            .appie-header-main-menu ul > li .sub-menu > li a {
+            .Nearoo-header-main-menu ul > li .sub-menu > li a {
               padding: 0 20px; } }
-          .appie-header-main-menu ul > li .sub-menu > li a i {
+          .Nearoo-header-main-menu ul > li .sub-menu > li a i {
             float: right;
             font-size: 16px;
             margin-top: 10px; }
             @media only screen and (min-width: 768px) and (max-width: 991px) {
-              .appie-header-main-menu ul > li .sub-menu > li a i {
+              .Nearoo-header-main-menu ul > li .sub-menu > li a i {
                 display: none; } }
             @media (max-width: 767px) {
-              .appie-header-main-menu ul > li .sub-menu > li a i {
+              .Nearoo-header-main-menu ul > li .sub-menu > li a i {
                 display: none; } }
-          .appie-header-main-menu ul > li .sub-menu > li a .sub-nav-toggler i {
+          .Nearoo-header-main-menu ul > li .sub-menu > li a .sub-nav-toggler i {
             display: inline-block; }
-          .appie-header-main-menu ul > li .sub-menu > li a:hover {
+          .Nearoo-header-main-menu ul > li .sub-menu > li a:hover {
             padding-left: 35px; }
-        .appie-header-main-menu ul > li .sub-menu > li .sub-menu {
+        .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu {
           right: auto;
           left: 100%;
           top: 50%;
@@ -1248,7 +1248,7 @@ p {
           -o-transition: all 0.3s ease-out 0s;
           transition: all 0.3s ease-out 0s; }
           @media only screen and (min-width: 768px) and (max-width: 991px) {
-            .appie-header-main-menu ul > li .sub-menu > li .sub-menu {
+            .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu {
               padding-left: 30px;
               -webkit-transition: all 0s ease-out 0s;
               -moz-transition: all 0s ease-out 0s;
@@ -1256,16 +1256,16 @@ p {
               -o-transition: all 0s ease-out 0s;
               transition: all 0s ease-out 0s; } }
           @media (max-width: 767px) {
-            .appie-header-main-menu ul > li .sub-menu > li .sub-menu {
+            .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu {
               padding-left: 30px;
               -webkit-transition: all 0s ease-out 0s;
               -moz-transition: all 0s ease-out 0s;
               -ms-transition: all 0s ease-out 0s;
               -o-transition: all 0s ease-out 0s;
               transition: all 0s ease-out 0s; } }
-          .appie-header-main-menu ul > li .sub-menu > li .sub-menu li {
+          .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu li {
             position: relative; }
-            .appie-header-main-menu ul > li .sub-menu > li .sub-menu li .sub-menu {
+            .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu li .sub-menu {
               right: auto;
               left: 100%;
               top: 50%;
@@ -1276,17 +1276,17 @@ p {
               -ms-transition: all 0.3s ease-out 0s;
               -o-transition: all 0.3s ease-out 0s;
               transition: all 0.3s ease-out 0s; }
-            .appie-header-main-menu ul > li .sub-menu > li .sub-menu li:hover .sub-menu {
+            .Nearoo-header-main-menu ul > li .sub-menu > li .sub-menu li:hover .sub-menu {
               top: 0%;
               opacity: 1;
               visibility: visible; }
-        .appie-header-main-menu ul > li .sub-menu > li:hover .sub-menu {
+        .Nearoo-header-main-menu ul > li .sub-menu > li:hover .sub-menu {
           top: 0%;
           opacity: 1;
           visibility: visible; }
-        .appie-header-main-menu ul > li .sub-menu > li:hover .sub-nav-toggler {
+        .Nearoo-header-main-menu ul > li .sub-menu > li:hover .sub-nav-toggler {
           color: #ff0000; }
-        .appie-header-main-menu ul > li .sub-menu > li:hover > a {
+        .Nearoo-header-main-menu ul > li .sub-menu > li:hover > a {
           color: #ff0000; }
    
       
@@ -1301,19 +1301,19 @@ p {
     top: -200px; }
   100% {
     top: 0; } }
-.appie-header-8-area .header-nav-box .appie-btn-box .main-btn {
+.Nearoo-header-8-area .header-nav-box .Nearoo-btn-box .main-btn {
   background: #db0f30;
   border-color: #db0f30; }
-  .appie-header-8-area .header-nav-box .appie-btn-box .main-btn:hover {
+  .Nearoo-header-8-area .header-nav-box .Nearoo-btn-box .main-btn:hover {
     background: #fff;
     color: #db0f30; }
-.appie-header-8-area .header-nav-box .appie-header-main-menu ul > li a:hover {
+.Nearoo-header-8-area .header-nav-box .Nearoo-header-main-menu ul > li a:hover {
   color: #db0f30; }
 
 
 
   /* home dropdown CSS */
-  .appie-header-main-menu ul li .mega-menu-main-wrap {
+  .Nearoo-header-main-menu ul li .mega-menu-main-wrap {
     width: 1170px;
     position: absolute;
     background: #fff;
@@ -1328,7 +1328,7 @@ p {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
     padding-top: 30px;
   }
-  .appie-header-main-menu ul li:hover .mega-menu-main-wrap{
+  .Nearoo-header-main-menu ul li:hover .mega-menu-main-wrap{
     opacity: 1;
     visibility: visible;
     transform: scaleY(1);
@@ -1336,7 +1336,7 @@ p {
   }
 
 
-.appie-header-main-menu ul li .mega-menu-main-wrap .mega-menu-home li {
+.Nearoo-header-main-menu ul li .mega-menu-main-wrap .mega-menu-home li {
 	display: inline-block;
 	width: 18%;
 	text-align: center;
@@ -1344,20 +1344,20 @@ p {
 	margin-bottom: 15px;
 }
 
- .appie-header-main-menu ul li .mega-menu-home li a:hover{
+ .Nearoo-header-main-menu ul li .mega-menu-home li a:hover{
    color: #ff0000
  }
- .appie-header-main-menu ul li .mega-menu-home li img {
+ .Nearoo-header-main-menu ul li .mega-menu-home li img {
 	box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
 	height: 280px;
   transition: .5s ease-in-out;
 }
-.appie-header-main-menu ul li .mega-menu-home li:hover img {
+.Nearoo-header-main-menu ul li .mega-menu-home li:hover img {
 	transform: translateY(-15px);
 }
 
  /* pages dropdown CSS */
- .appie-header-main-menu ul li .pages-mega-menu {
+ .Nearoo-header-main-menu ul li .pages-mega-menu {
 	width: 1170px !important;
 	position: absolute;
 	background: #fff;
@@ -1375,29 +1375,29 @@ p {
 	padding-bottom: 30px;
 }
 
-.appie-header-main-menu ul li:hover .pages-mega-menu{
+.Nearoo-header-main-menu ul li:hover .pages-mega-menu{
 opacity: 1;
 visibility: visible;
 transform: scaleY(1);
 }
 
-.appie-header-main-menu ul li .pages-mega-menu ul {
+.Nearoo-header-main-menu ul li .pages-mega-menu ul {
 	float: left;
 	width: auto;
 }
-.appie-header-main-menu ul li .pages-mega-menu ul li {
+.Nearoo-header-main-menu ul li .pages-mega-menu ul li {
 	display: block;
 }
-.appie-header-main-menu ul li .pages-mega-menu ul li a {
+.Nearoo-header-main-menu ul li .pages-mega-menu ul li a {
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 40px;
 }
-.appie-header-main-menu ul li .pages-mega-menu ul li a:hover {
+.Nearoo-header-main-menu ul li .pages-mega-menu ul li a:hover {
   color: #ff0000;
 }
 
-.appie-header-main-menu ul li .pages-mega-menu ul li:first-child a {
+.Nearoo-header-main-menu ul li .pages-mega-menu ul li:first-child a {
 	font-size: 18px;
 	font-weight: 500;
 	position: relative;
@@ -1562,7 +1562,7 @@ transform: scaleY(1);
 	text-transform: inherit !important;
 }
 
-.appie-header-main-menu ul li .blog-mega-menu {
+.Nearoo-header-main-menu ul li .blog-mega-menu {
 	width: 750px !important;
 }
 
@@ -1586,9 +1586,9 @@ transform: scaleY(1);
   
 
 /*===========================
-    3.APPIE HERO css 
+    3.Nearoo HERO css 
 ===========================*/
-.appie-hero-area {
+.Nearoo-hero-area {
   padding-top: 200px;
   padding-bottom: 110px;
   overflow: hidden;
@@ -1597,7 +1597,7 @@ transform: scaleY(1);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; }
-  .appie-hero-area.appie-hero-3-area {
+  .Nearoo-hero-area.Nearoo-hero-3-area {
     background-image: url(../images/hero-bg.jpg);
     background-size: cover;
     background-position: center;
@@ -1606,49 +1606,49 @@ transform: scaleY(1);
     padding-bottom: 0px;
     overflow: visible;
     z-index: 15; }
-    .appie-hero-area.appie-hero-3-area .appie-hero-content .appie-title {
+    .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .Nearoo-title {
       color: #fff;
       font-size: 70px;
       line-height: 80px;
       padding: 0 80px; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
-        .appie-hero-area.appie-hero-3-area .appie-hero-content .appie-title {
+        .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .Nearoo-title {
           font-size: 54px;
           line-height: 64px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-hero-area.appie-hero-3-area .appie-hero-content .appie-title {
+        .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .Nearoo-title {
           font-size: 50px;
           line-height: 60px; } }
       @media (max-width: 767px) {
-        .appie-hero-area.appie-hero-3-area .appie-hero-content .appie-title {
+        .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .Nearoo-title {
           font-size: 36px;
           line-height: 46px;
           padding: 0; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .appie-hero-area.appie-hero-3-area .appie-hero-content .appie-title {
+        .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .Nearoo-title {
           font-size: 46px;
           line-height: 56px;
           padding: 0; } }
-    .appie-hero-area.appie-hero-3-area .appie-hero-content p {
+    .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content p {
       color: #fff;
       opacity: 0.5;
       font-size: 18px;
       line-height: 28px; }
-    .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns {
+    .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .hero-btns {
       margin-top: 35px; }
-      .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns .main-btn {
+      .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .hero-btns .main-btn {
         border-color: #ff0000;
         color: #ff0000;
         background: transparent;
         margin-right: 14px; }
-      .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns .appie-video-popup {
+      .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .hero-btns .Nearoo-video-popup {
         color: #fff;
         font-size: 15px;
         font-weight: 500; }
         @media (max-width: 767px) {
-          .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns .appie-video-popup {
+          .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .hero-btns .Nearoo-video-popup {
             margin-top: 20px; } }
-        .appie-hero-area.appie-hero-3-area .appie-hero-content .hero-btns .appie-video-popup i {
+        .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .hero-btns .Nearoo-video-popup i {
           height: 45px;
           width: 45px;
           text-align: center;
@@ -1657,83 +1657,83 @@ transform: scaleY(1);
           border: 2px solid #fff;
           color: #fff;
           margin-right: 10px; }
-    .appie-hero-area.appie-hero-3-area .appie-hero-content .thumb {
+    .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .thumb {
       margin-bottom: -210px; }
       @media (max-width: 767px) {
-        .appie-hero-area.appie-hero-3-area .appie-hero-content .thumb {
+        .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .thumb {
           display: none;
           margin-bottom: 0; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .appie-hero-area.appie-hero-3-area .appie-hero-content .thumb {
+        .Nearoo-hero-area.Nearoo-hero-3-area .Nearoo-hero-content .thumb {
           display: block;
           margin-bottom: -210px; } }
-    .appie-hero-area.appie-hero-3-area.appie-hero-5-area {
+    .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area {
       background-color: #eef1f6;
       background-image: url(../images/hero-bg-2.png);
       padding-top: 280px; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
-        .appie-hero-area.appie-hero-3-area.appie-hero-5-area {
+        .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area {
           padding-top: 120px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-hero-area.appie-hero-3-area.appie-hero-5-area {
+        .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area {
           padding-top: 160px; } }
       @media (max-width: 767px) {
-        .appie-hero-area.appie-hero-3-area.appie-hero-5-area {
+        .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area {
           padding-top: 120px;
           padding-bottom: 100px; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .appie-hero-area.appie-hero-3-area.appie-hero-5-area {
+        .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area {
           padding-top: 120px;
           padding-bottom: 0px; } }
-      .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .thumb {
+      .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .thumb {
         margin-bottom: -110px; }
-      .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .appie-title {
+      .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .Nearoo-title {
         font-weight: 700;
         font-size: 70px;
         line-height: 80px; }
         @media only screen and (min-width: 992px) and (max-width: 1200px) {
-          .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .appie-title {
+          .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .Nearoo-title {
             font-size: 50px;
             line-height: 60px; } }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
-          .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .appie-title {
+          .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .Nearoo-title {
             font-size: 40px;
             line-height: 50px; } }
         @media (max-width: 767px) {
-          .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .appie-title {
+          .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .Nearoo-title {
             font-size: 30px;
             line-height: 40px; } }
         @media only screen and (min-width: 576px) and (max-width: 767px) {
-          .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .appie-title {
+          .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .Nearoo-title {
             font-size: 36px;
             line-height: 46px; } }
-      .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .hero-btns .appie-video-popup i {
+      .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .hero-btns .Nearoo-video-popup i {
         border-color: rgba(255, 255, 255, 0.2); }
-      .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .hero-btns .main-btn {
+      .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .hero-btns .main-btn {
         border-color: rgba(255, 255, 255, 0.2);
         color: #fff; }
-        .appie-hero-area.appie-hero-3-area.appie-hero-5-area .appie-hero-content .hero-btns .main-btn:hover {
+        .Nearoo-hero-area.Nearoo-hero-3-area.Nearoo-hero-5-area .Nearoo-hero-content .hero-btns .main-btn:hover {
           background: #ff0000;
           color: #fff; }
-  .appie-hero-area .hero-shape-1 {
+  .Nearoo-hero-area .hero-shape-1 {
     position: absolute;
     left: 0;
     top: 250px;
     z-index: -1;
     animation: linear 20s animationFramesOne infinite; }
-  .appie-hero-area .hero-shape-2 {
+  .Nearoo-hero-area .hero-shape-2 {
     position: absolute;
     left: 80px;
     z-index: -1;
     top: 480px;
     animation: linear 25s animationFramesThree infinite; }
-  .appie-hero-area .hero-shape-3 {
+  .Nearoo-hero-area .hero-shape-3 {
     position: absolute;
     bottom: 120px;
     right: 320px;
     z-index: -1;
     animation: linear 25s animationFramesFive infinite; }
-  .appie-hero-area.appie-hero-4-area {
+  .Nearoo-hero-area.Nearoo-hero-4-area {
     background: #f9f9f9;
     background-image: url(../images/hero-shape-1.png);
     background-repeat: no-repeat;
@@ -1741,34 +1741,34 @@ transform: scaleY(1);
     background-position: 6% 100%;
     padding-top: 140px;
     padding-bottom: 60px; }
-  .appie-hero-area.appie-hero-6-area {
+  .Nearoo-hero-area.Nearoo-hero-6-area {
     background-image: url(../images/hero-bg-3.jpg); }
-  .appie-hero-area.appie-hero-7-area {
+  .Nearoo-hero-area.Nearoo-hero-7-area {
     background-image: url(../images/hero-bg-4.png); }
-  .appie-hero-area.appie-hero-8-area {
+  .Nearoo-hero-area.Nearoo-hero-8-area {
     position: relative;
     z-index: 10; }
-    .appie-hero-area.appie-hero-8-area .home-8-shape-1 {
+    .Nearoo-hero-area.Nearoo-hero-8-area .home-8-shape-1 {
       position: absolute;
       left: 0;
       bottom: 100px;
       z-index: -1; }
-    .appie-hero-area.appie-hero-8-area .home-8-shape-2 {
+    .Nearoo-hero-area.Nearoo-hero-8-area .home-8-shape-2 {
       position: absolute;
       top: 0;
       right: 0;
       z-index: -1; }
-    .appie-hero-area.appie-hero-8-area .home-8-shape-3 {
+    .Nearoo-hero-area.Nearoo-hero-8-area .home-8-shape-3 {
       position: absolute;
       top: 400px;
       right: 290px;
       z-index: -1; }
-    .appie-hero-area.appie-hero-8-area .home-8-shape-4 {
+    .Nearoo-hero-area.Nearoo-hero-8-area .home-8-shape-4 {
       position: absolute;
       bottom: 195px;
       left: 195px;
       z-index: -1; }
-    .appie-hero-area.appie-hero-8-area .appie-hero-content-8 .appie-title {
+    .Nearoo-hero-area.Nearoo-hero-8-area .Nearoo-hero-content-8 .Nearoo-title {
       font-size: 70px;
       line-height: 80px;
       font-weight: 700;
@@ -1776,22 +1776,22 @@ transform: scaleY(1);
       -webkit-text-fill-color: transparent;
       -webkit-background-clip: text; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
-        .appie-hero-area.appie-hero-8-area .appie-hero-content-8 .appie-title {
+        .Nearoo-hero-area.Nearoo-hero-8-area .Nearoo-hero-content-8 .Nearoo-title {
           font-size: 56px;
           line-height: 66px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-hero-area.appie-hero-8-area .appie-hero-content-8 .appie-title {
+        .Nearoo-hero-area.Nearoo-hero-8-area .Nearoo-hero-content-8 .Nearoo-title {
           font-size: 42px;
           line-height: 66px; } }
       @media (max-width: 767px) {
-        .appie-hero-area.appie-hero-8-area .appie-hero-content-8 .appie-title {
+        .Nearoo-hero-area.Nearoo-hero-8-area .Nearoo-hero-content-8 .Nearoo-title {
           font-size: 32px;
           line-height: 44px; } }
 
-.appie-hero-thumb-6 .thumb {
+.Nearoo-hero-thumb-6 .thumb {
   position: relative;
   z-index: 10; }
-  .appie-hero-thumb-6 .thumb .back-image {
+  .Nearoo-hero-thumb-6 .thumb .back-image {
     position: absolute;
     left: 50%;
     top: 50%;
@@ -1800,60 +1800,60 @@ transform: scaleY(1);
     z-index: -1; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-hero-content {
+  .Nearoo-hero-content {
     margin-bottom: 50px;
     text-align: center; } }
 @media (max-width: 767px) {
-  .appie-hero-content {
+  .Nearoo-hero-content {
     margin-bottom: 50px;
     text-align: center; } }
-.appie-hero-content > span {
+.Nearoo-hero-content > span {
   color: #ff0000;
   font-size: 14px;
   font-weight: 500; }
-.appie-hero-content .appie-title {
+.Nearoo-hero-content .Nearoo-title {
   font-size: 60px;
   line-height: 70px;
   margin-top: 10px;
   margin-bottom: 22px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-hero-content .appie-title {
+    .Nearoo-hero-content .Nearoo-title {
       font-size: 48px;
       line-height: 58px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-hero-content .appie-title {
+    .Nearoo-hero-content .Nearoo-title {
       font-size: 48px;
       line-height: 58px; } }
   @media (max-width: 767px) {
-    .appie-hero-content .appie-title {
+    .Nearoo-hero-content .Nearoo-title {
       font-size: 28px;
       line-height: 38px; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .appie-hero-content .appie-title {
+    .Nearoo-hero-content .Nearoo-title {
       font-size: 36px;
       line-height: 46px; } }
-.appie-hero-content p {
+.Nearoo-hero-content p {
   font-size: 18px;
   line-height: 28px; }
   @media (max-width: 767px) {
-    .appie-hero-content p {
+    .Nearoo-hero-content p {
       font-size: 15px;
       line-height: 26px; } }
-.appie-hero-content ul {
+.Nearoo-hero-content ul {
   margin: 41px 0 0;
   padding: 0;
   list-style-type: none; }
-  .appie-hero-content ul li {
+  .Nearoo-hero-content ul li {
     display: inline-block;
     margin-right: 8px; }
     @media (max-width: 767px) {
-      .appie-hero-content ul li {
+      .Nearoo-hero-content ul li {
         margin-bottom: 20px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-hero-content ul li {
+      .Nearoo-hero-content ul li {
         margin-bottom: 0px; } }
 
-    .appie-hero-content ul li a {
+    .Nearoo-hero-content ul li a {
       background: #0e1133;
       color: #fff;
       line-height: 40px;
@@ -1862,50 +1862,50 @@ transform: scaleY(1);
       border: 2px solid #0e1133;
      }
 
-      .appie-hero-content ul li a i {
+      .Nearoo-hero-content ul li a i {
         padding-right: 6px; }
-      .appie-hero-content ul li a:hover {
+      .Nearoo-hero-content ul li a:hover {
         /* background: transparent; */
         color: #0e1133; 
         
       }
-      .appie-hero-content ul li a.item-2 {
+      .Nearoo-hero-content ul li a.item-2 {
         background: transparent;
         color: #0e1133; }
-        .appie-hero-content ul li a.item-2:hover {
+        .Nearoo-hero-content ul li a.item-2:hover {
           background: #0e1133;
           color: #fff; }
-.appie-hero-content.appie-hero-content-4 {
+.Nearoo-hero-content.Nearoo-hero-content-4 {
   padding-right: 40px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-hero-content.appie-hero-content-4 {
+    .Nearoo-hero-content.Nearoo-hero-content-4 {
       padding-right: 0; } }
   @media (max-width: 767px) {
-    .appie-hero-content.appie-hero-content-4 {
+    .Nearoo-hero-content.Nearoo-hero-content-4 {
       padding-right: 0; } }
-  .appie-hero-content.appie-hero-content-4 > span {
+  .Nearoo-hero-content.Nearoo-hero-content-4 > span {
     color: #801f82; }
-  .appie-hero-content.appie-hero-content-4 .appie-title {
+  .Nearoo-hero-content.Nearoo-hero-content-4 .Nearoo-title {
     font-size: 70px;
     font-weight: 700;
     line-height: 80px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-hero-content.appie-hero-content-4 .appie-title {
+      .Nearoo-hero-content.Nearoo-hero-content-4 .Nearoo-title {
         font-size: 60px;
         line-height: 70px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-hero-content.appie-hero-content-4 .appie-title {
+      .Nearoo-hero-content.Nearoo-hero-content-4 .Nearoo-title {
         font-size: 50px;
         line-height: 60px; } }
     @media (max-width: 767px) {
-      .appie-hero-content.appie-hero-content-4 .appie-title {
+      .Nearoo-hero-content.Nearoo-hero-content-4 .Nearoo-title {
         font-size: 30px;
         line-height: 40px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-hero-content.appie-hero-content-4 .appie-title {
+      .Nearoo-hero-content.Nearoo-hero-content-4 .Nearoo-title {
         font-size: 40px;
         line-height: 50px; } }
-  .appie-hero-content.appie-hero-content-4 a.main-btn {
+  .Nearoo-hero-content.Nearoo-hero-content-4 a.main-btn {
     border: 2px solid #801f82;
     color: #801f82;
     background: #fff;
@@ -1913,28 +1913,28 @@ transform: scaleY(1);
     padding: 0 40px;
     font-size: 16px;
     margin-top: 40px; }
-    .appie-hero-content.appie-hero-content-4 a.main-btn:hover {
+    .Nearoo-hero-content.Nearoo-hero-content-4 a.main-btn:hover {
       background: #801f82;
       color: #fff; }
-.appie-hero-content.appie-hero-content-6 > span {
+.Nearoo-hero-content.Nearoo-hero-content-6 > span {
   color: #9b2cfa; }
-.appie-hero-content.appie-hero-content-6 .appie-title {
+.Nearoo-hero-content.Nearoo-hero-content-6 .Nearoo-title {
   font-weight: 700;
   font-size: 70px;
   line-height: 80px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-hero-content.appie-hero-content-6 .appie-title {
+    .Nearoo-hero-content.Nearoo-hero-content-6 .Nearoo-title {
       font-size: 60px;
       line-height: 70px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-hero-content.appie-hero-content-6 .appie-title {
+    .Nearoo-hero-content.Nearoo-hero-content-6 .Nearoo-title {
       font-size: 50px;
       line-height: 60px; } }
   @media (max-width: 767px) {
-    .appie-hero-content.appie-hero-content-6 .appie-title {
+    .Nearoo-hero-content.Nearoo-hero-content-6 .Nearoo-title {
       font-size: 36px;
       line-height: 46px; } }
-.appie-hero-content.appie-hero-content-6 ul li a {
+.Nearoo-hero-content.Nearoo-hero-content-6 ul li a {
   background: #9b2cfa;
   border-color: #9b2cfa;
   display: flex;
@@ -1943,59 +1943,59 @@ transform: scaleY(1);
   font-weight: 400;
   padding-top: 10px;
   padding-bottom: 10px; }
-  .appie-hero-content.appie-hero-content-6 ul li a span {
+  .Nearoo-hero-content.Nearoo-hero-content-6 ul li a span {
     line-height: 20px; }
-    .appie-hero-content.appie-hero-content-6 ul li a span span {
+    .Nearoo-hero-content.Nearoo-hero-content-6 ul li a span span {
       font-size: 16px;
       font-weight: 700;
       display: block;
       line-height: 20px; }
-  .appie-hero-content.appie-hero-content-6 ul li a i {
+  .Nearoo-hero-content.Nearoo-hero-content-6 ul li a i {
     font-size: 30px; }
-  .appie-hero-content.appie-hero-content-6 ul li a:hover {
+  .Nearoo-hero-content.Nearoo-hero-content-6 ul li a:hover {
     background: #fff;
     color: #0e1133;
     border-color: #fff; }
-  .appie-hero-content.appie-hero-content-6 ul li a.item-2 {
+  .Nearoo-hero-content.Nearoo-hero-content-6 ul li a.item-2 {
     background: #fff;
     border-color: #fff; }
-    .appie-hero-content.appie-hero-content-6 ul li a.item-2:hover {
+    .Nearoo-hero-content.Nearoo-hero-content-6 ul li a.item-2:hover {
       background: #9b2cfa;
       border-color: #9b2cfa;
       color: #fff; }
-.appie-hero-content.appie-hero-content-6.appie-hero-content-7 .appie-title {
+.Nearoo-hero-content.Nearoo-hero-content-6.Nearoo-hero-content-7 .Nearoo-title {
   color: #fff; }
-.appie-hero-content.appie-hero-content-6.appie-hero-content-7 p {
+.Nearoo-hero-content.Nearoo-hero-content-6.Nearoo-hero-content-7 p {
   color: #fff;
   opacity: 0.5; }
-.appie-hero-content.appie-hero-content-6.appie-hero-content-7 ul li a {
+.Nearoo-hero-content.Nearoo-hero-content-6.Nearoo-hero-content-7 ul li a {
   background: #fff;
   color: #0e1133;
   border-color: #fff; }
-  .appie-hero-content.appie-hero-content-6.appie-hero-content-7 ul li a:hover {
+  .Nearoo-hero-content.Nearoo-hero-content-6.Nearoo-hero-content-7 ul li a:hover {
     background: transparent;
     border-color: #54386a;
     color: #fff; }
-  .appie-hero-content.appie-hero-content-6.appie-hero-content-7 ul li a.item-2 {
+  .Nearoo-hero-content.Nearoo-hero-content-6.Nearoo-hero-content-7 ul li a.item-2 {
     background: transparent;
     color: #fff;
     border-color: #54386a; }
-    .appie-hero-content.appie-hero-content-6.appie-hero-content-7 ul li a.item-2:hover {
+    .Nearoo-hero-content.Nearoo-hero-content-6.Nearoo-hero-content-7 ul li a.item-2:hover {
       border-color: #fff;
       background: #fff;
       color: #0e1133; }
 
-.appie-hero-thumb {
+.Nearoo-hero-thumb {
   position: relative;
   z-index: 10;
   text-align: center; }
-  .appie-hero-thumb .thumb-2 {
+  .Nearoo-hero-thumb .thumb-2 {
     position: absolute;
     right: -30px;
     top: 50%;
     transform: translateY(-50%);
     box-shadow: 0px 30px 70px 0px rgba(68, 1, 15, 0.2); }
-  .appie-hero-thumb::before {
+  .Nearoo-hero-thumb::before {
     position: absolute;
     content: '';
     left: 50%;
@@ -2006,20 +2006,20 @@ transform: scaleY(1);
     background: #f50000;
     border-radius: 50%;
     z-index: -1; }
-  .appie-hero-thumb.appie-hero-thumb-4::before {
+  .Nearoo-hero-thumb.Nearoo-hero-thumb-4::before {
     height: 160px;
     width: 160px;
     top: 200px;
     left: 70px;
     background: #801f82;
     transform: translate(0%, 0%); }
-  .appie-hero-thumb.appie-hero-thumb-4 .hero-dot {
+  .Nearoo-hero-thumb.Nearoo-hero-thumb-4 .hero-dot {
     position: absolute;
     right: 70px;
     bottom: 115px;
     z-index: -1; }
 
-.appie-hero-area-2 {
+.Nearoo-hero-area-2 {
   padding-top: 290px;
   padding-bottom: 170px;
   background: #eef1f6;
@@ -2027,62 +2027,62 @@ transform: scaleY(1);
   overflow: hidden;
   z-index: 10; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-hero-area-2 {
+    .Nearoo-hero-area-2 {
       padding-top: 190px;
       padding-bottom: 120px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-hero-area-2 {
+    .Nearoo-hero-area-2 {
       padding-top: 190px;
       padding-bottom: 120px; } }
   @media (max-width: 767px) {
-    .appie-hero-area-2 {
+    .Nearoo-hero-area-2 {
       padding-top: 190px;
       padding-bottom: 150px; } }
-  .appie-hero-area-2 .appie-hero-thumb-3 {
+  .Nearoo-hero-area-2 .Nearoo-hero-thumb-3 {
     position: absolute;
     right: 0;
     bottom: 0;
     width: 48%; }
     @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-      .appie-hero-area-2 .appie-hero-thumb-3 {
+      .Nearoo-hero-area-2 .Nearoo-hero-thumb-3 {
         width: 60%; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-hero-area-2 .appie-hero-thumb-3 {
+      .Nearoo-hero-area-2 .Nearoo-hero-thumb-3 {
         width: 40%; } }
     @media (max-width: 767px) {
-      .appie-hero-area-2 .appie-hero-thumb-3 {
+      .Nearoo-hero-area-2 .Nearoo-hero-thumb-3 {
         width: 36%; } }
-  .appie-hero-area-2 .hero-shape-1 {
+  .Nearoo-hero-area-2 .hero-shape-1 {
     position: absolute;
     top: 250px;
     left: 130px;
     animation: linear 20s animationFramesOne infinite;
     z-index: -1; }
-  .appie-hero-area-2 .hero-shape-2 {
+  .Nearoo-hero-area-2 .hero-shape-2 {
     position: absolute;
     bottom: 290px;
     left: 40px;
     animation: linear 20s animationFramesFour infinite;
     z-index: -1; }
-  .appie-hero-area-2 .hero-shape-3 {
+  .Nearoo-hero-area-2 .hero-shape-3 {
     position: absolute;
     top: 480px;
     right: 240px;
     animation: linear 20s animationFramesFive infinite;
     z-index: -1; }
-  .appie-hero-area-2 .hero-shape-4 {
+  .Nearoo-hero-area-2 .hero-shape-4 {
     position: absolute;
     top: 210px;
     right: 0px;
     animation: linear 20s animationFramesThree infinite;
     z-index: -1; }
 
-.appie-hero-content-2 > span {
+.Nearoo-hero-content-2 > span {
   font-size: 16px;
   font-weight: 500;
   color: #f50000;
   position: relative; }
-  .appie-hero-content-2 > span::before {
+  .Nearoo-hero-content-2 > span::before {
     position: absolute;
     content: '';
     left: 50%;
@@ -2094,47 +2094,47 @@ transform: scaleY(1);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; }
-.appie-hero-content-2 .appie-title {
+.Nearoo-hero-content-2 .Nearoo-title {
   font-size: 64px;
   line-height: 70px;
   font-weight: 400;
   margin-top: 15px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-hero-content-2 .appie-title {
+    .Nearoo-hero-content-2 .Nearoo-title {
       font-size: 50px;
       line-height: 50px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-hero-content-2 .appie-title {
+    .Nearoo-hero-content-2 .Nearoo-title {
       font-size: 50px;
       line-height: 60px; } }
   @media (max-width: 767px) {
-    .appie-hero-content-2 .appie-title {
+    .Nearoo-hero-content-2 .Nearoo-title {
       font-size: 30px;
       line-height: 40px; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .appie-hero-content-2 .appie-title {
+    .Nearoo-hero-content-2 .Nearoo-title {
       font-size: 40px;
       line-height: 50px; } }
-  .appie-hero-content-2 .appie-title span {
+  .Nearoo-hero-content-2 .Nearoo-title span {
     font-weight: 900; }
-.appie-hero-content-2 p {
+.Nearoo-hero-content-2 p {
   font-size: 18px;
   color: #0e1133;
   margin-top: 22px; }
-.appie-hero-content-2 .input-box {
+.Nearoo-hero-content-2 .input-box {
   position: relative;
   margin-top: 40px;
   width: 400px; }
   @media (max-width: 767px) {
-    .appie-hero-content-2 .input-box {
+    .Nearoo-hero-content-2 .input-box {
       width: 100%; } }
-  .appie-hero-content-2 .input-box > i {
+  .Nearoo-hero-content-2 .input-box > i {
     position: absolute;
     left: 25px;
     top: 50%;
     transform: translateY(-50%);
     color: #c3c3cc; }
-  .appie-hero-content-2 .input-box input {
+  .Nearoo-hero-content-2 .input-box input {
     width: 100%;
     height: 60px;
     border-radius: 40px;
@@ -2142,7 +2142,7 @@ transform: scaleY(1);
     border-left: 3px solid #f50000;
     padding-left: 55px;
     box-shadow: -3px 0px 0px 0px rgba(255, 62, 102, 0.004), 0px 30px 30px 0px rgba(14, 17, 51, 0.1); }
-  .appie-hero-content-2 .input-box button {
+  .Nearoo-hero-content-2 .input-box button {
     position: absolute;
     right: 0;
     top: 50%;
@@ -2155,11 +2155,11 @@ transform: scaleY(1);
     border-radius: 50%;
     border: 0;
     color: #f50000; }
-.appie-hero-content-2 .hero-users {
+.Nearoo-hero-content-2 .hero-users {
   display: flex;
   align-items: center;
   margin-top: 40px; }
-  .appie-hero-content-2 .hero-users > span {
+  .Nearoo-hero-content-2 .hero-users > span {
     margin-left: 20px;
     font-size: 26px;
     font-weight: 900;
@@ -2167,14 +2167,14 @@ transform: scaleY(1);
     width: 60px;
     display: inline-block;
     line-height: 16px; }
-    .appie-hero-content-2 .hero-users > span span {
+    .Nearoo-hero-content-2 .hero-users > span span {
       font-size: 13px;
       font-weight: 500;
       color: #505056;
       display: inline-block;
       line-height: 13px; }
 
-.appie-page-title-area {
+.Nearoo-page-title-area {
   height: 450px;
   background-image: url(../images/page-bg.jpg);
   background-size: cover;
@@ -2182,177 +2182,151 @@ transform: scaleY(1);
   background-repeat: no-repeat;
   display: flex;
   align-items: center; }
-  .appie-page-title-area.appie-page-service-title-area {
+  .Nearoo-page-title-area.Nearoo-page-service-title-area {
     height: 650px;
     background-image: url(../images/page-title-bg.jpg); }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-page-title-area.appie-page-service-title-area {
+      .Nearoo-page-title-area.Nearoo-page-service-title-area {
         height: 500px; } }
     @media (max-width: 767px) {
-      .appie-page-title-area.appie-page-service-title-area {
+      .Nearoo-page-title-area.Nearoo-page-service-title-area {
         height: 400px; } }
-    .appie-page-title-area.appie-page-service-title-area .appie-page-title-item .thumb {
+    .Nearoo-page-title-area.Nearoo-page-service-title-area .Nearoo-page-title-item .thumb {
       right: 110px;
       width: auto; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
-        .appie-page-title-area.appie-page-service-title-area .appie-page-title-item .thumb {
+        .Nearoo-page-title-area.Nearoo-page-service-title-area .Nearoo-page-title-item .thumb {
           right: 0; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-page-title-area.appie-page-service-title-area .appie-page-title-item .thumb {
+        .Nearoo-page-title-area.Nearoo-page-service-title-area .Nearoo-page-title-item .thumb {
           display: none; } }
       @media (max-width: 767px) {
-        .appie-page-title-area.appie-page-service-title-area .appie-page-title-item .thumb {
+        .Nearoo-page-title-area.Nearoo-page-service-title-area .Nearoo-page-title-item .thumb {
           display: none; } }
 
-.appie-page-title-item {
+.Nearoo-page-title-item {
   margin-top: 80px;
   position: relative; }
-  .appie-page-title-item .thumb {
+  .Nearoo-page-title-item .thumb {
     position: absolute;
     right: 0;
     bottom: -100px;
     width: 160px; }
     @media (max-width: 767px) {
-      .appie-page-title-item .thumb {
+      .Nearoo-page-title-item .thumb {
         display: none; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-page-title-item .thumb {
+      .Nearoo-page-title-item .thumb {
         display: block; } }
-  .appie-page-title-item span {
+  .Nearoo-page-title-item span {
     color: #fff;
     font-weight: 500;
     opacity: 0.7;
     padding-bottom: 14px; }
-  .appie-page-title-item .title {
+  .Nearoo-page-title-item .title {
     color: #fff;
     font-size: 44px;
     font-weight: 700; }
     @media (max-width: 767px) {
-      .appie-page-title-item .title {
+      .Nearoo-page-title-item .title {
         font-size: 26px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-page-title-item .title {
+      .Nearoo-page-title-item .title {
         font-size: 32px; } }
-  .appie-page-title-item nav {
+  .Nearoo-page-title-item nav {
     display: inline-block;
     margin-top: 20px; }
-    .appie-page-title-item nav ol {
+    .Nearoo-page-title-item nav ol {
       background: transparent;
       padding: 0; }
-      .appie-page-title-item nav ol li a {
+      .Nearoo-page-title-item nav ol li a {
         color: #fff;
         opacity: 0.8; }
-      .appie-page-title-item nav ol li.active {
+      .Nearoo-page-title-item nav ol li.active {
         color: #fff;
         opacity: 0.8; }
 
 /*===========================
-    4.APPIE SERVOCE css 
+    4.Nearoo SERVOCE css 
 ===========================*/
-.appie-service-area {
+.Nearoo-service-area {
   background: #eef1f6;
   position: relative;
   background-image: url(../images/shape/shape-1.png);
   background-position: 92% 100%;
   background-repeat: no-repeat;
   background-size: auto; }
-  .appie-service-area.appie-service-3-area {
+  .Nearoo-service-area.Nearoo-service-3-area {
     background: none; }
     @media (max-width: 767px) {
-      .appie-service-area.appie-service-3-area {
+      .Nearoo-service-area.Nearoo-service-3-area {
         padding-top: 100px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-service-area.appie-service-3-area {
+      .Nearoo-service-area.Nearoo-service-3-area {
         padding-top: 190px; } }
 
-.appie-single-service {
+.Nearoo-single-service {
   padding: 50px 30px 43px;
   background: #fff;
   border-radius: 6px;
   transition: all linear 0.3s; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-single-service {
+    .Nearoo-single-service {
       padding: 50px 15px 43px; } }
-  .appie-single-service .icon {
+  .Nearoo-single-service .icon {
     display: inline-block;
     border-radius: 20px;
     height: 70px;
     width: 70px;
     text-align: center;
     line-height: 70px;
-    background: linear-gradient(135deg, #84bcfa 0%, #ff0000 100%);
-    box-shadow: 0px 6px 10px 0px rgba(16, 73, 189, 0.3);
     position: relative; }
-    .appie-single-service .icon > span {
-      position: absolute;
-      right: -10px;
-      top: -10px;
-      height: 30px;
-      width: 30px;
-      background: #ff0000;
-      border-radius: 50%;
-      border: 2px solid #fff;
-      box-shadow: 0px 3px 6px 0px rgba(14, 17, 51, 0.1);
-      line-height: 28px;
-      color: #fff; }
-  .appie-single-service .appie-title {
+  .Nearoo-single-service .Nearoo-title {
     font-size: 20px;
     font-weight: 700;
     padding-top: 33px;
     padding-bottom: 10px; }
-  .appie-single-service:hover {
+  .Nearoo-single-service:hover {
     box-shadow: 0px 40px 40px 0px rgba(14, 17, 51, 0.1);
     transform: translateY(-15px); }
-  .appie-single-service.item-2 .icon {
-    background: linear-gradient(135deg, #f7b8af 0%, #f8452d 100%); }
-    .appie-single-service.item-2 .icon span {
-      background: #f8452d; }
-  .appie-single-service.item-3 .icon {
-    background: linear-gradient(135deg, #a0eac2 0%, #31c369 100%); }
-    .appie-single-service.item-3 .icon span {
-      background: #31c369; }
-  .appie-single-service.item-4 .icon {
-    background: linear-gradient(135deg, #d8aaff 0%, #9b2cfa 100%); }
-    .appie-single-service.item-4 .icon span {
-      background: #9b2cfa; }
-  .appie-single-service.appie-single-services-3 {
+  .Nearoo-single-service.Nearoo-single-services-3 {
     background: transparent; }
-    .appie-single-service.appie-single-services-3 .icon {
+    .Nearoo-single-service.Nearoo-single-services-3 .icon {
       border-radius: 50%;
       background-image: -moz-linear-gradient(110deg, #ff5f4a 0%, #ff9e91 100%);
       background-image: -webkit-linear-gradient(110deg, #ff5f4a 0%, #ff9e91 100%);
       background-image: -ms-linear-gradient(110deg, #ff5f4a 0%, #ff9e91 100%); }
-    .appie-single-service.appie-single-services-3 a {
+    .Nearoo-single-service.Nearoo-single-services-3 a {
       color: #505056;
       font-size: 14px;
       font-weight: 500;
       margin-top: 25px; }
-      .appie-single-service.appie-single-services-3 a:hover {
+      .Nearoo-single-service.Nearoo-single-services-3 a:hover {
         color: #ff6b58; }
-    .appie-single-service.appie-single-services-3.item-2 {
+    .Nearoo-single-service.Nearoo-single-services-3.item-2 {
       background: linear-gradient(0deg, rgba(39, 153, 246, 0.08) 0%, rgba(255, 255, 255, 0.08) 100%); }
-      .appie-single-service.appie-single-services-3.item-2 .icon {
+      .Nearoo-single-service.Nearoo-single-services-3.item-2 .icon {
         background-image: -moz-linear-gradient(110deg, #2799f6 0%, #76c1ff 100%);
         background-image: -webkit-linear-gradient(110deg, #2799f6 0%, #76c1ff 100%);
         background-image: -ms-linear-gradient(110deg, #2799f6 0%, #76c1ff 100%); }
-    .appie-single-service.appie-single-services-3.item-3 .icon {
+    .Nearoo-single-service.Nearoo-single-services-3.item-3 .icon {
       background-image: -moz-linear-gradient(110deg, #f2335b 0%, #ff718f 100%);
       background-image: -webkit-linear-gradient(110deg, #f2335b 0%, #ff718f 100%);
       background-image: -ms-linear-gradient(110deg, #f2335b 0%, #ff718f 100%); }
-    .appie-single-service.appie-single-services-3.item-4 {
+    .Nearoo-single-service.Nearoo-single-services-3.item-4 {
       background: linear-gradient(0deg, rgba(119, 89, 237, 0.08) 0%, rgba(255, 255, 255, 0.08) 100%); }
-      .appie-single-service.appie-single-services-3.item-4 .icon {
+      .Nearoo-single-service.Nearoo-single-services-3.item-4 .icon {
         background-image: -moz-linear-gradient(110deg, #7759ed 0%, #ac97ff 100%);
         background-image: -webkit-linear-gradient(110deg, #7759ed 0%, #ac97ff 100%);
         background-image: -ms-linear-gradient(110deg, #7759ed 0%, #ac97ff 100%); }
-    .appie-single-service.appie-single-services-3.appie-single-services-5 a:hover {
+    .Nearoo-single-service.Nearoo-single-services-3.Nearoo-single-services-5 a:hover {
       color: #801f82; }
 
 @media (max-width: 767px) {
-  .appie-services-2-area .appie-section-title {
+  .Nearoo-services-2-area .Nearoo-section-title {
     text-align: center !important; } }
 
-.appie-single-service-2 {
+.Nearoo-single-service-2 {
   border: 1px solid #eef0f4;
   border-radius: 10px;
   padding: 48px;
@@ -2362,10 +2336,10 @@ transform: scaleY(1);
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s; }
   @media (max-width: 767px) {
-    .appie-single-service-2 {
+    .Nearoo-single-service-2 {
       text-align: center;
       padding: 20px; } }
-  .appie-single-service-2 .icon i {
+  .Nearoo-single-service-2 .icon i {
     height: 50px;
     width: 50px;
     text-align: center;
@@ -2373,87 +2347,87 @@ transform: scaleY(1);
     background: #2eacfc;
     color: #fff;
     border-radius: 50%; }
-  .appie-single-service-2 .title {
+  .Nearoo-single-service-2 .title {
     font-size: 20px;
     font-weight: 700;
     margin-top: 30px;
     margin-bottom: 10px; }
-  .appie-single-service-2 a {
+  .Nearoo-single-service-2 a {
     font-size: 14px;
     font-weight: 500;
     color: #505056;
     margin-top: 23px; }
-    .appie-single-service-2 a:hover {
+    .Nearoo-single-service-2 a:hover {
       color: #f50000; }
-  .appie-single-service-2:hover {
+  .Nearoo-single-service-2:hover {
     box-shadow: 0px -3px 0px 0px rgba(234, 76, 137, 0.004), 0px 40px 40px 0px rgba(14, 17, 51, 0.1);
     border-top: 3px solid #2eacfc;
     transform: translateY(-10px); }
-  .appie-single-service-2.item-2 .icon i {
+  .Nearoo-single-service-2.item-2 .icon i {
     background: #ea4c89; }
-  .appie-single-service-2.item-2:hover {
+  .Nearoo-single-service-2.item-2:hover {
     border-top-color: #ea4c89; }
-  .appie-single-service-2.item-3 .icon i {
+  .Nearoo-single-service-2.item-3 .icon i {
     background: #3578ff; }
-  .appie-single-service-2.item-3:hover {
+  .Nearoo-single-service-2.item-3:hover {
     border-top-color: #3578ff; }
-  .appie-single-service-2.item-4 .icon i {
+  .Nearoo-single-service-2.item-4 .icon i {
     background: #f67741; }
-  .appie-single-service-2.item-4:hover {
+  .Nearoo-single-service-2.item-4:hover {
     border-top-color: #f67741; }
-  .appie-single-service-2.item-5 .icon i {
+  .Nearoo-single-service-2.item-5 .icon i {
     background: #6a88f7; }
-  .appie-single-service-2.item-5:hover {
+  .Nearoo-single-service-2.item-5:hover {
     border-top-color: #6a88f7; }
-  .appie-single-service-2.item-6 .icon i {
+  .Nearoo-single-service-2.item-6 .icon i {
     background: #3ab094; }
-  .appie-single-service-2.item-6:hover {
+  .Nearoo-single-service-2.item-6:hover {
     border-top-color: #3ab094; }
-  .appie-single-service-2.appie-single-service-about {
+  .Nearoo-single-service-2.Nearoo-single-service-about {
     border-radius: 0;
     padding: 0 90px 30px 0;
     border: 0;
     transition: all linear 0.3s; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-single-service-2.appie-single-service-about {
+      .Nearoo-single-service-2.Nearoo-single-service-about {
         padding-right: 30px; } }
     @media (max-width: 767px) {
-      .appie-single-service-2.appie-single-service-about {
+      .Nearoo-single-service-2.Nearoo-single-service-about {
         padding-right: 50px;
         padding-left: 50px; } }
-    .appie-single-service-2.appie-single-service-about .icon i {
+    .Nearoo-single-service-2.Nearoo-single-service-about .icon i {
       background-color: #f1f7fe;
       color: #ff0000;
       border-radius: 35% 65% 50% 50% / 59% 50% 50% 41%;
       font-size: 20px; }
-    .appie-single-service-2.appie-single-service-about:hover {
+    .Nearoo-single-service-2.Nearoo-single-service-about:hover {
       box-shadow: none;
       margin-top: 20px; }
-    .appie-single-service-2.appie-single-service-about.item-2 .icon i {
+    .Nearoo-single-service-2.Nearoo-single-service-about.item-2 .icon i {
       color: #db0f30;
       background-color: #fef3f5;
       border-radius: 50% 50% 50% 50% / 50% 75% 25% 50%; }
-    .appie-single-service-2.appie-single-service-about.item-3 .icon i {
+    .Nearoo-single-service-2.Nearoo-single-service-about.item-3 .icon i {
       color: #9b2cfa;
       background-color: #f7eeff;
       border-radius: 25% 75% 50% 50% / 50% 50% 50% 50%; }
-    .appie-single-service-2.appie-single-service-about.item-4 .icon i {
+    .Nearoo-single-service-2.Nearoo-single-service-about.item-4 .icon i {
       color: #f8452d;
       background-color: #fef0ee;
       border-radius: 40% 60% 40% 60% / 40% 60% 40% 60%; }
-    .appie-single-service-2.appie-single-service-about.item-5 .icon i {
+    .Nearoo-single-service-2.Nearoo-single-service-about.item-5 .icon i {
       color: #31c369;
       background-color: #f4fcf7;
       border-radius: 33% 67% 50% 50% / 61% 72% 28% 39%; }
-    .appie-single-service-2.appie-single-service-about.item-6 .icon i {
+    .Nearoo-single-service-2.Nearoo-single-service-about.item-6 .icon i {
       color: #f6ac0e;
       background-color: #fef7e7;
       border-radius: 21% 79% 58% 42% / 50% 46% 54% 50%; }
 
-.appie-services-6-area .appie-section-title .main-btn:hover {
+.Nearoo-services-6-area .Nearoo-section-title .main-btn:hover {
   background: #9b2cfa;
   border-color: #9b2cfa; }
-.appie-services-6-area .appie-single-service-2 a:hover {
+.Nearoo-services-6-area .Nearoo-single-service-2 a:hover {
   color: #9b2cfa; }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -2512,36 +2486,36 @@ transform: scaleY(1);
     padding-top: 34px;
     padding-bottom: 26px; }
 
-.appie-services-8-area .service-thumb {
+.Nearoo-services-8-area .service-thumb {
   margin-left: -50px;
   margin-right: -100px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-services-8-area .service-thumb {
+    .Nearoo-services-8-area .service-thumb {
       display: none; } }
   @media (max-width: 767px) {
-    .appie-services-8-area .service-thumb {
+    .Nearoo-services-8-area .service-thumb {
       display: none; } }
 
 /*===========================
-    5.APPIE FEATURES css 
+    5.Nearoo FEATURES css 
 ===========================*/
-.appie-features-area {
+.Nearoo-features-area {
   position: relative;
   z-index: 10;
   overflow: hidden; }
-  .appie-features-area .features-shape-1 {
+  .Nearoo-features-area .features-shape-1 {
     position: absolute;
     left: 560px;
     top: 130px;
     animation: animationFramesOne 20s  linear infinite;
     z-index: -1; }
-  .appie-features-area .features-shape-2 {
+  .Nearoo-features-area .features-shape-2 {
     position: absolute;
     left: 500px;
     bottom: 0px;
     animation: animationFramesThree 20s  linear infinite;
     z-index: -1; }
-  .appie-features-area .features-shape-3 {
+  .Nearoo-features-area .features-shape-3 {
     position: absolute;
     right: 270px;
     bottom: 0;
@@ -2549,31 +2523,31 @@ transform: scaleY(1);
     z-index: -1; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-features-tabs-btn .nav {
+  .Nearoo-features-tabs-btn .nav {
     flex-direction: row !important;
     justify-content: center;
     margin-bottom: 40px; } }
 @media (max-width: 767px) {
-  .appie-features-tabs-btn .nav {
+  .Nearoo-features-tabs-btn .nav {
     flex-direction: row !important;
     justify-content: center;
     margin-bottom: 40px; } }
-.appie-features-tabs-btn .nav a {
+.Nearoo-features-tabs-btn .nav a {
   border-right: 3px solid #e8eaef;
   border-radius: 0;
   font-size: 15px;
   font-weight: 500;
   color: #505056; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-features-tabs-btn .nav a {
+    .Nearoo-features-tabs-btn .nav a {
       padding-right: 20px;
       padding-left: 20px; } }
   @media (max-width: 767px) {
-    .appie-features-tabs-btn .nav a {
+    .Nearoo-features-tabs-btn .nav a {
       padding-right: 15px;
       padding-left: 15px;
       margin-bottom: 20px; } }
-  .appie-features-tabs-btn .nav a i {
+  .Nearoo-features-tabs-btn .nav a i {
     height: 35px;
     width: 35px;
     text-align: center;
@@ -2583,28 +2557,28 @@ transform: scaleY(1);
     display: inline-block;
     border-radius: 50%;
     margin-right: 10px; }
-  .appie-features-tabs-btn .nav a.active {
+  .Nearoo-features-tabs-btn .nav a.active {
     border-right-color: #ff0000;
     background: transparent;
     color: #ff0000; }
-    .appie-features-tabs-btn .nav a.active i {
+    .Nearoo-features-tabs-btn .nav a.active i {
       color: #fff;
       background: #ff0000; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-features-content {
+  .Nearoo-features-content {
     padding-top: 40px; } }
 @media (max-width: 767px) {
-  .appie-features-content {
+  .Nearoo-features-content {
     padding-top: 30px; } }
-.appie-features-content span {
+.Nearoo-features-content span {
   font-size: 14px;
   font-weight: 500;
   color: #ff0000;
   margin-bottom: 8px; 
   display: block
 }
-.appie-features-content .title {
+.Nearoo-features-content .title {
 	font-size: 44px;
 	line-height: 54px;
 	margin-bottom: 10px;
@@ -2612,7 +2586,7 @@ transform: scaleY(1);
 	display: inline-block;
    
 }
-.appie-features-content .title::before {
+.Nearoo-features-content .title::before {
     content: "";
     width: 100%;
     height: 3px;
@@ -2633,45 +2607,45 @@ transform: scaleY(1);
 
 
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-features-content .title {
+    .Nearoo-features-content .title {
       font-size: 36px;
       line-height: 44px; } }
   @media (max-width: 767px) {
-    .appie-features-content .title {
+    .Nearoo-features-content .title {
       font-size: 30px;
       line-height: 40px; } }
-.appie-features-content p {
+.Nearoo-features-content p {
   font-size: 18px;
   line-height: 28px;
   padding-bottom: 30px; }
 
-.appie-features-area-2 {
+.Nearoo-features-area-2 {
   background: #0e1133;
   position: relative;
   overflow: hidden;
   z-index: 10; }
-  .appie-features-area-2 .features-shape-1 {
+  .Nearoo-features-area-2 .features-shape-1 {
     position: absolute;
     left: 240px;
     top: 240px;
     z-index: -1;
     animation: linear 20s animationFramesThree infinite; }
-  .appie-features-area-2 .features-shape-2 {
+  .Nearoo-features-area-2 .features-shape-2 {
     position: absolute;
     right: 190px;
     top: 160px;
     z-index: -1;
     animation: linear 20s animationFramesFive infinite; }
-  .appie-features-area-2 .features-shape-3 {
+  .Nearoo-features-area-2 .features-shape-3 {
     position: absolute;
     right: 160px;
     bottom: 260px;
     z-index: -1;
     animation: linear 20s animationFramesOne infinite; }
-  .appie-features-area-2.appie-features-area-5 {
+  .Nearoo-features-area-2.Nearoo-features-area-5 {
     background: #fff; }
 
-.appie-features-box-item {
+.Nearoo-features-box-item {
   border: 1px solid #202234;
   padding: 25px 30px 30px 70px;
   border-radius: 6px;
@@ -2684,30 +2658,30 @@ transform: scaleY(1);
   margin-left: 100px;
   margin-right: 70px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-features-box-item {
+    .Nearoo-features-box-item {
       margin-left: 0;
       margin-right: 0; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-features-box-item {
+    .Nearoo-features-box-item {
       margin-left: 50px;
       margin-right: 50px; } }
   @media (max-width: 767px) {
-    .appie-features-box-item {
+    .Nearoo-features-box-item {
       margin-left: 0px;
       margin-right: 0px;
       padding-left: 60px; } }
-  .appie-features-box-item .title {
+  .Nearoo-features-box-item .title {
     color: #fff;
     font-size: 24px;
     font-weight: 700;
     position: relative; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-features-box-item .title {
+      .Nearoo-features-box-item .title {
         font-size: 20px; } }
     @media (max-width: 767px) {
-      .appie-features-box-item .title {
+      .Nearoo-features-box-item .title {
         font-size: 20px; } }
-    .appie-features-box-item .title::before {
+    .Nearoo-features-box-item .title::before {
       position: absolute;
       content: '';
       left: -40px;
@@ -2717,55 +2691,55 @@ transform: scaleY(1);
       background: #f50000;
       border: 6px solid #2a182d;
       border-radius: 50%; }
-  .appie-features-box-item p {
+  .Nearoo-features-box-item p {
     font-size: 14px;
     opacity: 0.6;
     color: #fff;
     margin-top: 3px; }
-  .appie-features-box-item:hover {
+  .Nearoo-features-box-item:hover {
     border-color: #f50000; }
-  .appie-features-box-item.item-2 .title::before {
+  .Nearoo-features-box-item.item-2 .title::before {
     background: #2eacfc;
     border-color: #15233d; }
-  .appie-features-box-item.item-2:hover {
+  .Nearoo-features-box-item.item-2:hover {
     border-color: #2eacfc; }
-  .appie-features-box-item.item-3 .title::before {
+  .Nearoo-features-box-item.item-3 .title::before {
     background: #33c956;
     border-color: #15262c; }
-  .appie-features-box-item.item-3:hover {
+  .Nearoo-features-box-item.item-3:hover {
     border-color: #33c956; }
-  .appie-features-box-item.appie-features-box-5-item .title {
+  .Nearoo-features-box-item.Nearoo-features-box-5-item .title {
     color: #0e1133; }
-    .appie-features-box-item.appie-features-box-5-item .title::before {
+    .Nearoo-features-box-item.Nearoo-features-box-5-item .title::before {
       border-color: rgba(9, 8, 8, 0.21); }
-  .appie-features-box-item.appie-features-box-5-item p {
+  .Nearoo-features-box-item.Nearoo-features-box-5-item p {
     color: #505056;
     opacity: 1; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-features-thumb {
+  .Nearoo-features-thumb {
     text-align: center;
     margin-top: 50px; } }
 @media (max-width: 767px) {
-  .appie-features-thumb {
+  .Nearoo-features-thumb {
     text-align: center;
     margin-top: 50px; } }
 
-.appie-features-6-area .appie-features-tabs-btn .nav a.active {
+.Nearoo-features-6-area .Nearoo-features-tabs-btn .nav a.active {
   color: #9b2cfa;
   border-right-color: #9b2cfa; }
-  .appie-features-6-area .appie-features-tabs-btn .nav a.active i {
+  .Nearoo-features-6-area .Nearoo-features-tabs-btn .nav a.active i {
     background: #9b2cfa; }
-.appie-features-6-area .appie-features-content > span {
+.Nearoo-features-6-area .Nearoo-features-content > span {
   color: #9b2cfa; }
-.appie-features-6-area .appie-features-content a {
+.Nearoo-features-6-area .Nearoo-features-content a {
   background: #9b2cfa;
   border-color: #9b2cfa; }
-  .appie-features-6-area .appie-features-content a:hover {
+  .Nearoo-features-6-area .Nearoo-features-content a:hover {
     background: #fff;
     color: #9b2cfa; }
 
-  .appie-features-content svg {
+  .Nearoo-features-content svg {
     position: absolute;
     top: 40%;
     left: 50%;
@@ -2776,7 +2750,7 @@ transform: scaleY(1);
     transform: translate(-50%, -50%);
     overflow: visible;
   }
-  .appie-features-content svg path {
+  .Nearoo-features-content svg path {
     stroke: #f39c12;
     stroke-width: 9;
     fill: none;
@@ -2786,71 +2760,71 @@ transform: scaleY(1);
 }
 
 /*===========================
-    6.APPIE TRAFFICE css 
+    6.Nearoo TRAFFICE css 
 ===========================*/
-.appie-traffic-area {
+.Nearoo-traffic-area {
   position: relative;
   overflow: hidden;
   z-index: 15; }
-  .appie-traffic-area .traffic-thumb {
+  .Nearoo-traffic-area .traffic-thumb {
     position: absolute;
     right: 0;
     top: 50%;
     transform: translateY(-50%);
     width: 42%; }
     @media (max-width: 767px) {
-      .appie-traffic-area .traffic-thumb {
+      .Nearoo-traffic-area .traffic-thumb {
         display: none; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-traffic-area .traffic-thumb {
+      .Nearoo-traffic-area .traffic-thumb {
         display: none; } }
 
-.appie-traffic-title {
+.Nearoo-traffic-title {
   padding-right: 220px;
   margin-bottom: 43px; }
   @media (max-width: 767px) {
-    .appie-traffic-title {
+    .Nearoo-traffic-title {
       padding-right: 0; } }
-  .appie-traffic-title span {
+  .Nearoo-traffic-title span {
     font-size: 14px;
     font-weight: 500;
     color: #ff0000; }
-  .appie-traffic-title .title {
+  .Nearoo-traffic-title .title {
     font-size: 44px;
     line-height: 54px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-traffic-title .title {
+      .Nearoo-traffic-title .title {
         font-size: 36px;
         line-height: 46px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-traffic-title .title {
+      .Nearoo-traffic-title .title {
         font-size: 36px;
         line-height: 46px; } }
     @media (max-width: 767px) {
-      .appie-traffic-title .title {
+      .Nearoo-traffic-title .title {
         font-size: 30px;
         line-height: 40px; } }
 
-.appie-traffic-service {
+.Nearoo-traffic-service {
   position: relative;
   padding-left: 40px;
   padding-right: 70px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-traffic-service {
+    .Nearoo-traffic-service {
       padding-right: 0; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-traffic-service {
+    .Nearoo-traffic-service {
       margin-bottom: 30px;
       padding-right: 50px; } }
   @media (max-width: 767px) {
-    .appie-traffic-service {
+    .Nearoo-traffic-service {
       margin-bottom: 30px;
       padding-right: 0px; } }
-  .appie-traffic-service .icon {
+  .Nearoo-traffic-service .icon {
     position: absolute;
     left: 0;
     top: 5px; }
-    .appie-traffic-service .icon i {
+    .Nearoo-traffic-service .icon i {
       height: 26px;
       width: 26px;
       text-align: center;
@@ -2860,17 +2834,17 @@ transform: scaleY(1);
       color: #fff;
       font-size: 14px;
       box-shadow: 0px 6px 10px 0px rgba(16, 73, 189, 0.3); }
-  .appie-traffic-service .title {
+  .Nearoo-traffic-service .title {
     font-size: 20px;
     font-weight: 700;
     padding-bottom: 7px; }
-  .appie-traffic-service p {
+  .Nearoo-traffic-service p {
     font-size: 15px; }
-  .appie-traffic-service.item-2 .icon i {
+  .Nearoo-traffic-service.item-2 .icon i {
     background: linear-gradient(135deg, #f7b8af 0%, #f8452d 100%); }
-  .appie-traffic-service.item-3 .icon i {
+  .Nearoo-traffic-service.item-3 .icon i {
     background: linear-gradient(135deg, #a0eac2 0%, #31c369 100%); }
-  .appie-traffic-service.item-4 .icon i {
+  .Nearoo-traffic-service.item-4 .icon i {
     background: linear-gradient(135deg, #d8aaff 0%, #9b2cfa 100%); }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -2895,50 +2869,50 @@ transform: scaleY(1);
 
 
 /*===========================
-    6.APPIE TRAFFICE css 
+    6.Nearoo TRAFFICE css 
 ===========================*/
-.appie-testimonial-area {
+.Nearoo-testimonial-area {
   background-image: url(../images/testimonial-bg.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat; }
 
-.appie-testimonial-slider-rtl .appie-testimonial-item .author-info,
-.appie-testimonial-slider .appie-testimonial-item .author-info {
+.Nearoo-testimonial-slider-rtl .Nearoo-testimonial-item .author-info,
+.Nearoo-testimonial-slider .Nearoo-testimonial-item .author-info {
   margin-bottom: 15px; }
-  .appie-testimonial-slider-rtl .appie-testimonial-item .author-info img,
-  .appie-testimonial-slider .appie-testimonial-item .author-info img {
+  .Nearoo-testimonial-slider-rtl .Nearoo-testimonial-item .author-info img,
+  .Nearoo-testimonial-slider .Nearoo-testimonial-item .author-info img {
     display: inline-block; }
-  .appie-testimonial-slider-rtl .appie-testimonial-item .author-info .title,
-  .appie-testimonial-slider .appie-testimonial-item .author-info .title {
+  .Nearoo-testimonial-slider-rtl .Nearoo-testimonial-item .author-info .title,
+  .Nearoo-testimonial-slider .Nearoo-testimonial-item .author-info .title {
     font-weight: 500;
     font-size: 16px;
     color: #fff;
     padding-top: 10px; }
-  .appie-testimonial-slider-rtl .appie-testimonial-item .author-info span,
-  .appie-testimonial-slider .appie-testimonial-item .author-info span {
+  .Nearoo-testimonial-slider-rtl .Nearoo-testimonial-item .author-info span,
+  .Nearoo-testimonial-slider .Nearoo-testimonial-item .author-info span {
     font-size: 14px;
     color: #fff;
     opacity: 0.5; }
-.appie-testimonial-slider-rtl .appie-testimonial-item .text p,
-.appie-testimonial-slider .appie-testimonial-item .text p {
+.Nearoo-testimonial-slider-rtl .Nearoo-testimonial-item .text p,
+.Nearoo-testimonial-slider .Nearoo-testimonial-item .text p {
   font-size: 20px;
   line-height: 30px;
   color: #fff; }
-.appie-testimonial-slider-rtl .appie-testimonial-item .text ul,
-.appie-testimonial-slider .appie-testimonial-item .text ul {
+.Nearoo-testimonial-slider-rtl .Nearoo-testimonial-item .text ul,
+.Nearoo-testimonial-slider .Nearoo-testimonial-item .text ul {
   margin: 10px 0 0;
   padding: 0;
   list-style-type: none; }
-  .appie-testimonial-slider-rtl .appie-testimonial-item .text ul li,
-  .appie-testimonial-slider .appie-testimonial-item .text ul li {
+  .Nearoo-testimonial-slider-rtl .Nearoo-testimonial-item .text ul li,
+  .Nearoo-testimonial-slider .Nearoo-testimonial-item .text ul li {
     display: inline-block;
     margin: 0 2px; }
-    .appie-testimonial-slider-rtl .appie-testimonial-item .text ul li i,
-    .appie-testimonial-slider .appie-testimonial-item .text ul li i {
+    .Nearoo-testimonial-slider-rtl .Nearoo-testimonial-item .text ul li i,
+    .Nearoo-testimonial-slider .Nearoo-testimonial-item .text ul li i {
       color: #ffb848; }
-.appie-testimonial-slider-rtl .slick-arrow,
-.appie-testimonial-slider .slick-arrow {
+.Nearoo-testimonial-slider-rtl .slick-arrow,
+.Nearoo-testimonial-slider .slick-arrow {
   position: absolute;
   top: 62%;
   transform: translateY(-50%);
@@ -2947,23 +2921,23 @@ transform: scaleY(1);
   z-index: 11;
   cursor: pointer;
   opacity: 0.5; }
-  .appie-testimonial-slider-rtl .slick-arrow.prev,
-  .appie-testimonial-slider .slick-arrow.prev {
+  .Nearoo-testimonial-slider-rtl .slick-arrow.prev,
+  .Nearoo-testimonial-slider .slick-arrow.prev {
     left: -80px; }
-  .appie-testimonial-slider-rtl .slick-arrow.next,
-  .appie-testimonial-slider .slick-arrow.next {
+  .Nearoo-testimonial-slider-rtl .slick-arrow.next,
+  .Nearoo-testimonial-slider .slick-arrow.next {
     right: -80px; }
-.appie-testimonial-slider-rtl .slick-dots,
-.appie-testimonial-slider .slick-dots {
+.Nearoo-testimonial-slider-rtl .slick-dots,
+.Nearoo-testimonial-slider .slick-dots {
   position: absolute;
   left: 50%;
   bottom: -65px;
   transform: translateX(-50%); }
-  .appie-testimonial-slider-rtl .slick-dots li,
-  .appie-testimonial-slider .slick-dots li {
+  .Nearoo-testimonial-slider-rtl .slick-dots li,
+  .Nearoo-testimonial-slider .slick-dots li {
     display: inline-block; }
-    .appie-testimonial-slider-rtl .slick-dots li button,
-    .appie-testimonial-slider .slick-dots li button {
+    .Nearoo-testimonial-slider-rtl .slick-dots li button,
+    .Nearoo-testimonial-slider .slick-dots li button {
       border: 0;
       background: #fff;
       height: 8px;
@@ -2972,27 +2946,27 @@ transform: scaleY(1);
       font-size: 0;
       opacity: 0.5;
       margin: 0 4px; }
-    .appie-testimonial-slider-rtl .slick-dots li.slick-active button,
-    .appie-testimonial-slider .slick-dots li.slick-active button {
+    .Nearoo-testimonial-slider-rtl .slick-dots li.slick-active button,
+    .Nearoo-testimonial-slider .slick-dots li.slick-active button {
       opacity: 1; }
 
-.appie-testimonial-2-box {
+.Nearoo-testimonial-2-box {
   background-image: url(../images/testimonial-bg-2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 120px 140px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-testimonial-2-box {
+    .Nearoo-testimonial-2-box {
       padding: 50px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-testimonial-2-box {
+    .Nearoo-testimonial-2-box {
       padding: 50px 30px; } }
   @media (max-width: 767px) {
-    .appie-testimonial-2-box {
+    .Nearoo-testimonial-2-box {
       padding: 50px 30px; } }
 
-.appie-testimonial-slider-2 .slick-arrow {
+.Nearoo-testimonial-slider-2 .slick-arrow {
   position: absolute;
   right: 0;
   bottom: 0px;
@@ -3005,90 +2979,90 @@ transform: scaleY(1);
   border-radius: 50%;
   z-index: 9;
   cursor: pointer; }
-  .appie-testimonial-slider-2 .slick-arrow:hover {
+  .Nearoo-testimonial-slider-2 .slick-arrow:hover {
     background: #f50000;
     color: #fff;
     border-color: #f50000; }
-  .appie-testimonial-slider-2 .slick-arrow.prev {
+  .Nearoo-testimonial-slider-2 .slick-arrow.prev {
     right: 60px; }
-  .appie-testimonial-slider-2 .slick-arrow.next {
+  .Nearoo-testimonial-slider-2 .slick-arrow.next {
     right: 0; }
 
-.appie-testimonial-slider-2-item .item {
+.Nearoo-testimonial-slider-2-item .item {
   display: flex;
   padding-right: 30px;
   padding-left: 30px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-testimonial-slider-2-item .item {
+    .Nearoo-testimonial-slider-2-item .item {
       display: block; } }
   @media (max-width: 767px) {
-    .appie-testimonial-slider-2-item .item {
+    .Nearoo-testimonial-slider-2-item .item {
       display: block;
       padding-left: 0;
       padding-right: 0; } }
-.appie-testimonial-slider-2-item .thumb {
+.Nearoo-testimonial-slider-2-item .thumb {
   text-align: center;
   min-width: 140px;
   margin-right: 60px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-testimonial-slider-2-item .thumb {
+    .Nearoo-testimonial-slider-2-item .thumb {
       margin-bottom: 30px;
       margin-right: 0; } }
   @media (max-width: 767px) {
-    .appie-testimonial-slider-2-item .thumb {
+    .Nearoo-testimonial-slider-2-item .thumb {
       margin-bottom: 30px;
       margin-right: 0; } }
-  .appie-testimonial-slider-2-item .thumb img {
+  .Nearoo-testimonial-slider-2-item .thumb img {
     display: inline-block;
     border-radius: 50%;
     box-shadow: 0px 20px 30px 0px rgba(0, 16, 49, 0.1);
     margin-bottom: 13px; }
-  .appie-testimonial-slider-2-item .thumb ul {
+  .Nearoo-testimonial-slider-2-item .thumb ul {
     margin: 0;
     padding: 0;
     list-style-type: none; }
-    .appie-testimonial-slider-2-item .thumb ul li {
+    .Nearoo-testimonial-slider-2-item .thumb ul li {
       display: inline-block; }
-      .appie-testimonial-slider-2-item .thumb ul li i {
+      .Nearoo-testimonial-slider-2-item .thumb ul li i {
         font-size: 14px;
         color: #ffb848; }
-  .appie-testimonial-slider-2-item .thumb span {
+  .Nearoo-testimonial-slider-2-item .thumb span {
     font-size: 13px;
     font-weight: 500;
     color: #fff;
     opacity: 0.7; }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-testimonial-slider-2-item .content {
+  .Nearoo-testimonial-slider-2-item .content {
     text-align: center; } }
 @media (max-width: 767px) {
-  .appie-testimonial-slider-2-item .content {
+  .Nearoo-testimonial-slider-2-item .content {
     text-align: center; } }
-.appie-testimonial-slider-2-item .content p {
+.Nearoo-testimonial-slider-2-item .content p {
   color: #fff;
   font-size: 20px;
   line-height: 30px; }
   @media (max-width: 767px) {
-    .appie-testimonial-slider-2-item .content p {
+    .Nearoo-testimonial-slider-2-item .content p {
       font-size: 16px; } }
-.appie-testimonial-slider-2-item .content .author-info {
+.Nearoo-testimonial-slider-2-item .content .author-info {
   margin-top: 27px; }
-  .appie-testimonial-slider-2-item .content .author-info .title {
+  .Nearoo-testimonial-slider-2-item .content .author-info .title {
     color: #fff;
     font-size: 20px;
     font-weight: 700; }
-  .appie-testimonial-slider-2-item .content .author-info span {
+  .Nearoo-testimonial-slider-2-item .content .author-info span {
     font-size: 14px;
     color: #fff;
     opacity: .7; }
 
-.appie-testimonial-about-area {
+.Nearoo-testimonial-about-area {
   background-image: url(../images/map-bg.png);
   background-size: auto;
   background-position: 50% 50%;
   background-repeat: no-repeat; }
-  .appie-testimonial-about-area .appie-section-title {
+  .Nearoo-testimonial-about-area .Nearoo-section-title {
     margin-bottom: 30px; }
-    .appie-testimonial-about-area .appie-section-title .appie-title {
+    .Nearoo-testimonial-about-area .Nearoo-section-title .Nearoo-title {
       padding: 0 30px; }
 
 .testimonial-about-slider-active .testimonial-box {
@@ -3215,20 +3189,20 @@ transform: scaleY(1);
         margin: 10px 0 0 -24px; }
 
 /*===========================
-    7.APPIE TEAM css 
+    7.Nearoo TEAM css 
 ===========================*/
-.appie-team-item .thumb {
+.Nearoo-team-item .thumb {
   position: relative;
   z-index: 10;
   overflow: hidden; }
-  .appie-team-item .thumb img {
+  .Nearoo-team-item .thumb img {
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
     width: 100%; }
-  .appie-team-item .thumb::before {
+  .Nearoo-team-item .thumb::before {
     position: absolute;
     content: '';
     left: 0;
@@ -3244,7 +3218,7 @@ transform: scaleY(1);
     -ms-transition: all 0.3s ease-out 0s;
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s; }
-    .appie-team-item .thumb ul {
+    .Nearoo-team-item .thumb ul {
       position: absolute;
       left: 50%;
       bottom: -30px;
@@ -3264,19 +3238,19 @@ transform: scaleY(1);
       visibility: hidden !important;
     }
   
-    .appie-team-item .thumb:hover ul {
+    .Nearoo-team-item .thumb:hover ul {
       opacity: 1 !important;
       visibility: visible !important;
       bottom: 30px !important;
     }
 
-    .appie-team-item .thumb ul li {
+    .Nearoo-team-item .thumb ul li {
       display: inline-block;
       margin: 0 3px; }
 
 
       
-      .appie-team-item .thumb ul li a {
+      .Nearoo-team-item .thumb ul li a {
         display: inline-block;
         height: 36px;
         width: 36px;
@@ -3285,41 +3259,41 @@ transform: scaleY(1);
         line-height: 36px;
         border-radius: 50px;
         color: #fff; }
-        .appie-team-item .thumb ul li a:hover {
+        .Nearoo-team-item .thumb ul li a:hover {
           background: #fff;
           color: #ff0000;
           border-color: #fff; }
-.appie-team-item .content {
+.Nearoo-team-item .content {
   padding-top: 27px; }
-  .appie-team-item .content .title {
+  .Nearoo-team-item .content .title {
     font-size: 18px;
     font-weight: 700;
     padding-bottom: 8px; }
-  .appie-team-item .content span {
+  .Nearoo-team-item .content span {
     font-size: 14px;
     color: #81818d; }
-.appie-team-item:hover .thumb::before {
+.Nearoo-team-item:hover .thumb::before {
   opacity: 0.5; }
-.appie-team-item:hover .thumb ul {
+.Nearoo-team-item:hover .thumb ul {
   opacity: 1;
   visibility: visible; }
-.appie-team-item:hover .thumb img {
+.Nearoo-team-item:hover .thumb img {
   transform: scale(1.1); }
-.appie-team-item.appie-team-item-about .thumb {
+.Nearoo-team-item.Nearoo-team-item-about .thumb {
   border-radius: 6px;
   overflow: hidden; }
-  .appie-team-item.appie-team-item-about .thumb::before {
+  .Nearoo-team-item.Nearoo-team-item-about .thumb::before {
     background-color: #ff0000; }
-  .appie-team-item.appie-team-item-about .thumb ul {
+  .Nearoo-team-item.Nearoo-team-item-about .thumb ul {
     left: 30px;
     transform: translateX(0); }
-    .appie-team-item.appie-team-item-about .thumb ul li a {
+    .Nearoo-team-item.Nearoo-team-item-about .thumb ul li a {
       border-radius: 6px; }
-.appie-team-item.appie-team-item-about:hover .thumb::before {
+.Nearoo-team-item.Nearoo-team-item-about:hover .thumb::before {
   opacity: 0.9; }
-.appie-team-item.appie-team-item-about.appie-team-item-8 .thumb::before {
+.Nearoo-team-item.Nearoo-team-item-about.Nearoo-team-item-8 .thumb::before {
   background: #db0f30; }
-.appie-team-item.appie-team-item-about.appie-team-item-8 .thumb ul li a:hover {
+.Nearoo-team-item.Nearoo-team-item-about.Nearoo-team-item-8 .thumb ul li a:hover {
   color: #db0f30; }
 
 .team-btn a {
@@ -3332,31 +3306,31 @@ transform: scaleY(1);
     background: #ff0000;
     color: #fff; }
 
-.appie-team-about-area .team-btn a {
+.Nearoo-team-about-area .team-btn a {
   border-color: #ff0000;
   color: #ff0000; }
-  .appie-team-about-area .team-btn a:hover {
+  .Nearoo-team-about-area .team-btn a:hover {
     color: #fff; }
-.appie-team-about-area.appie-team-8-area .team-btn a {
+.Nearoo-team-about-area.Nearoo-team-8-area .team-btn a {
   border-color: #db0f30;
   color: #db0f30; }
-  .appie-team-about-area.appie-team-8-area .team-btn a:hover {
+  .Nearoo-team-about-area.Nearoo-team-8-area .team-btn a:hover {
     background: #db0f30;
     color: #fff; }
 
 /*===========================
-    8.APPIE PRICING css 
+    8.Nearoo PRICING css 
 ===========================*/
-.appie-pricing-area {
+.Nearoo-pricing-area {
   background: #eef1f6; }
 
-.appie-pricing-area {
+.Nearoo-pricing-area {
   position: relative;
   z-index: 10; }
-  .appie-pricing-area .section-title {
+  .Nearoo-pricing-area .section-title {
     padding-bottom: 48px; }
 
-.appie-pricing-area .switch {
+.Nearoo-pricing-area .switch {
   position: relative;
   display: inline-block;
   width: 60px;
@@ -3364,10 +3338,10 @@ transform: scaleY(1);
   vertical-align: middle;
   margin: 0; }
 
-.appie-pricing-area .switch input {
+.Nearoo-pricing-area .switch input {
   display: none; }
 
-.appie-pricing-area .slider {
+.Nearoo-pricing-area .slider {
   position: absolute;
   cursor: pointer;
   top: 0;
@@ -3378,7 +3352,7 @@ transform: scaleY(1);
   transition: .4s;
   background: #fff; }
 
-.appie-pricing-area .slider:before {
+.Nearoo-pricing-area .slider:before {
   position: absolute;
   content: "";
   height: 26px;
@@ -3391,17 +3365,17 @@ transform: scaleY(1);
   -webkit-transition: .4s;
   transition: .4s; }
 
-.appie-pricing-area .switch.off .slider:before {
+.Nearoo-pricing-area .switch.off .slider:before {
   -webkit-transform: translateX(26px);
   transform: translateX(26px); }
 
-.appie-pricing-area .slider.round {
+.Nearoo-pricing-area .slider.round {
   border-radius: 34px; }
 
-.appie-pricing-area .slider.round:before {
+.Nearoo-pricing-area .slider.round:before {
   border-radius: 50%; }
 
-.appie-pricing-area ul.switch-toggler-list {
+.Nearoo-pricing-area ul.switch-toggler-list {
   display: -webkit-box;
   display: flex;
   -webkit-box-align: center;
@@ -3410,7 +3384,7 @@ transform: scaleY(1);
   justify-content: center;
   margin-bottom: 40px; }
 
-.appie-pricing-area ul.switch-toggler-list li a {
+.Nearoo-pricing-area ul.switch-toggler-list li a {
   font-size: 14px;
   font-weight: 500;
   color: #505056;
@@ -3418,7 +3392,7 @@ transform: scaleY(1);
   padding-right: 20px;
   display: block; }
 
-.appie-pricing-area ul.switch-toggler-list li.active a {
+.Nearoo-pricing-area ul.switch-toggler-list li.active a {
   color: #0e1133; }
 
 .pricing-one__single {
@@ -3541,35 +3515,35 @@ transform: scaleY(1);
       border-top: 3px solid #f50000;
       transform: translateY(-10px); }
 
-.appie-pricing-2-area .appie-section-title .nav {
+.Nearoo-pricing-2-area .Nearoo-section-title .nav {
   display: inline-block !important;
   border: 2px solid #e7eaef;
   padding: 3px;
   border-radius: 40px;
   margin-top: 55px; }
-  .appie-pricing-2-area .appie-section-title .nav li {
+  .Nearoo-pricing-2-area .Nearoo-section-title .nav li {
     display: inline-block; }
-    .appie-pricing-2-area .appie-section-title .nav li a {
+    .Nearoo-pricing-2-area .Nearoo-section-title .nav li a {
       border-radius: 30px;
       font-weight: 500;
       font-size: 14px;
       color: #505056;
       padding: 5px 20px; }
-      .appie-pricing-2-area .appie-section-title .nav li a.active {
+      .Nearoo-pricing-2-area .Nearoo-section-title .nav li a.active {
         color: #fff;
         background: #f50000; }
 
-.appie-pricing-6-area .pricing-one__single .pricing-rebon span {
+.Nearoo-pricing-6-area .pricing-one__single .pricing-rebon span {
   background: #9b2cfa;
   box-shadow: none; }
-.appie-pricing-6-area .pricing-one__single.center .pricig-body .pricing-btn a {
+.Nearoo-pricing-6-area .pricing-one__single.center .pricig-body .pricing-btn a {
   background: #9b2cfa;
   border-color: #9b2cfa; }
 
 /*===========================
-    9.APPIE FAQ css 
+    9.Nearoo FAQ css 
 ===========================*/
-.appie-faq-area {
+.Nearoo-faq-area {
   background: #eef1f6;
   position: relative;
   background-image: url(../images/shape/faq-shape.png);
@@ -3729,16 +3703,16 @@ transform: scaleY(1);
       line-height: 26px;
       font-weight: 400; }
 
-.appie-faq-8-area {
+.Nearoo-faq-8-area {
   background: #eef1f6;
   position: relative; }
-  .appie-faq-8-area .faq-accordion .accrodion .accrodion-inner .accrodion-title::before {
+  .Nearoo-faq-8-area .faq-accordion .accrodion .accrodion-inner .accrodion-title::before {
     background: #fcecef;
     color: #db0f30; }
-  .appie-faq-8-area .faq-accordion .accrodion .accrodion-inner .accrodion-title::after {
+  .Nearoo-faq-8-area .faq-accordion .accrodion .accrodion-inner .accrodion-title::after {
     background: #db0f30;
     color: #fff; }
-  .appie-faq-8-area .faq-play-box {
+  .Nearoo-faq-8-area .faq-play-box {
     position: absolute;
     top: 0;
     right: 0;
@@ -3749,17 +3723,17 @@ transform: scaleY(1);
     background-repeat: no-repeat;
     background-size: cover; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-faq-8-area .faq-play-box {
+      .Nearoo-faq-8-area .faq-play-box {
         display: none; } }
     @media (max-width: 767px) {
-      .appie-faq-8-area .faq-play-box {
+      .Nearoo-faq-8-area .faq-play-box {
         display: none; } }
-    .appie-faq-8-area .faq-play-box .play-btn {
+    .Nearoo-faq-8-area .faq-play-box .play-btn {
       position: absolute;
       left: 50%;
       top: 50%;
       transform: translate(-50%, -50%); }
-      .appie-faq-8-area .faq-play-box .play-btn a {
+      .Nearoo-faq-8-area .faq-play-box .play-btn a {
         height: 80px;
         width: 80px;
         text-align: center;
@@ -3768,7 +3742,7 @@ transform: scaleY(1);
         border-radius: 50%;
         color: #ff0000;
         position: relative; }
-        .appie-faq-8-area .faq-play-box .play-btn a::before {
+        .Nearoo-faq-8-area .faq-play-box .play-btn a::before {
           position: absolute;
           content: '';
           left: 0;
@@ -3778,51 +3752,51 @@ transform: scaleY(1);
           border: 1px solid #fff;
           border-radius: 50%;
           animation: linear infinite popup 1.5s; }
-    .appie-faq-8-area .faq-play-box .faq-play-counter {
+    .Nearoo-faq-8-area .faq-play-box .faq-play-counter {
       position: absolute;
       left: 0;
       bottom: 0;
       display: flex; }
-      .appie-faq-8-area .faq-play-box .faq-play-counter .box-1 {
+      .Nearoo-faq-8-area .faq-play-box .faq-play-counter .box-1 {
         background: rgba(42, 109, 245, 0.9);
         padding: 50px 60px; }
-        .appie-faq-8-area .faq-play-box .faq-play-counter .box-1 .title {
+        .Nearoo-faq-8-area .faq-play-box .faq-play-counter .box-1 .title {
           font-size: 30px;
           color: #fff; }
-        .appie-faq-8-area .faq-play-box .faq-play-counter .box-1 span {
+        .Nearoo-faq-8-area .faq-play-box .faq-play-counter .box-1 span {
           font-size: 14px;
           color: #d1dbfb; }
-        .appie-faq-8-area .faq-play-box .faq-play-counter .box-1.box-2 {
+        .Nearoo-faq-8-area .faq-play-box .faq-play-counter .box-1.box-2 {
           background: rgba(14, 17, 51, 0.9); }
 
 /*===========================
-    10.APPIE BLOG css 
+    10.Nearoo BLOG css 
 ===========================*/
-.appie-blog-item .thumb {
+.Nearoo-blog-item .thumb {
   overflow: hidden;
   border-radius: 6px; }
-  .appie-blog-item .thumb img {
+  .Nearoo-blog-item .thumb img {
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
     width: 100%; }
-.appie-blog-item .content {
+.Nearoo-blog-item .content {
   padding-top: 20px; }
-  .appie-blog-item .content .blog-meta ul {
+  .Nearoo-blog-item .content .blog-meta ul {
     margin: 0;
     padding: 0;
     list-style-type: none; }
-    .appie-blog-item .content .blog-meta ul li {
+    .Nearoo-blog-item .content .blog-meta ul li {
       display: inline-block;
       font-size: 14px;
       padding-right: 22px;
       position: relative; }
-      .appie-blog-item .content .blog-meta ul li a {
+      .Nearoo-blog-item .content .blog-meta ul li a {
         font-weight: 400;
         color: #505056; }
-      .appie-blog-item .content .blog-meta ul li:nth-child(1)::before {
+      .Nearoo-blog-item .content .blog-meta ul li:nth-child(1)::before {
         position: absolute;
         content: '';
         right: 8px;
@@ -3832,140 +3806,140 @@ transform: scaleY(1);
         width: 5px;
         background: #ff0000;
         border-radius: 50%; }
-  .appie-blog-item .content .title {
+  .Nearoo-blog-item .content .title {
     font-size: 24px;
     font-weight: 500;
     line-height: 34px;
     margin-top: 2px; }
-    .appie-blog-item .content .title a {
+    .Nearoo-blog-item .content .title a {
       color: #0e1133; }
-      .appie-blog-item .content .title a:hover {
+      .Nearoo-blog-item .content .title a:hover {
         color: #ff0000; }
-  .appie-blog-item .content > a {
+  .Nearoo-blog-item .content > a {
     font-size: 15px;
     font-weight: 500;
     color: #0e1133;
     margin-top: 14px; }
-    .appie-blog-item .content > a i {
+    .Nearoo-blog-item .content > a i {
       padding-left: 6px; }
-    .appie-blog-item .content > a:hover {
+    .Nearoo-blog-item .content > a:hover {
       color: #ff0000; }
-.appie-blog-item:hover .thumb img {
+.Nearoo-blog-item:hover .thumb img {
   transform: scale(1.1); }
 
-.appie-blog-3-area .blog-btn a {
+.Nearoo-blog-3-area .blog-btn a {
   background: transparent;
   color: #0e1133;
   border: 2px solid #e7eaef; }
-  .appie-blog-3-area .blog-btn a:hover {
+  .Nearoo-blog-3-area .blog-btn a:hover {
     background: #ff6b58;
     border-color: #ff6b58;
     color: #fff; }
-.appie-blog-3-area.appie-blog-6-area .blog-btn a:hover {
+.Nearoo-blog-3-area.Nearoo-blog-6-area .blog-btn a:hover {
   background: #9b2cfa;
   border-color: #9b2cfa; }
-.appie-blog-3-area.appie-blog-8-area {
+.Nearoo-blog-3-area.Nearoo-blog-8-area {
   background: #eef1f6;
   position: relative;
   z-index: 10; }
-  .appie-blog-3-area.appie-blog-8-area .appie-blog-8-shape-1 {
+  .Nearoo-blog-3-area.Nearoo-blog-8-area .Nearoo-blog-8-shape-1 {
     position: absolute;
     left: 0;
     top: 0;
     z-index: -1; }
-  .appie-blog-3-area.appie-blog-8-area .appie-blog-8-shape-2 {
+  .Nearoo-blog-3-area.Nearoo-blog-8-area .Nearoo-blog-8-shape-2 {
     position: absolute;
     right: 0;
     bottom: 340px;
     z-index: -1; }
-  .appie-blog-3-area.appie-blog-8-area .blog-btn a {
+  .Nearoo-blog-3-area.Nearoo-blog-8-area .blog-btn a {
     border-color: #db0f30;
     color: #db0f30; }
-    .appie-blog-3-area.appie-blog-8-area .blog-btn a:hover {
+    .Nearoo-blog-3-area.Nearoo-blog-8-area .blog-btn a:hover {
       background: #db0f30;
       color: #fff; }
 
-.appie-blog-item-3 {
+.Nearoo-blog-item-3 {
   box-shadow: 0px 15px 50px 0px rgba(14, 17, 51, 0.1);
   border-radius: 10px;
   padding: 35px;
   display: flex;
   align-items: center; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-blog-item-3 {
+    .Nearoo-blog-item-3 {
       padding: 15px; } }
   @media (max-width: 767px) {
-    .appie-blog-item-3 {
+    .Nearoo-blog-item-3 {
       padding: 15px;
       display: block; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .appie-blog-item-3 {
+    .Nearoo-blog-item-3 {
       display: flex; } }
-  .appie-blog-item-3 .thumb {
+  .Nearoo-blog-item-3 .thumb {
     max-width: 120px;
     min-width: 120px;
     border-radius: 6px;
     overflow: hidden;
     margin-right: 30px; }
     @media (max-width: 767px) {
-      .appie-blog-item-3 .thumb {
+      .Nearoo-blog-item-3 .thumb {
         max-width: 100%;
         min-width: 100%; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-blog-item-3 .thumb {
+      .Nearoo-blog-item-3 .thumb {
         max-width: 120px;
         min-width: 120px; } }
-    .appie-blog-item-3 .thumb img {
+    .Nearoo-blog-item-3 .thumb img {
       width: 100%;
       transition: all linear 0.3s; }
-  .appie-blog-item-3 .content {
+  .Nearoo-blog-item-3 .content {
     padding-right: 50px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-blog-item-3 .content {
+      .Nearoo-blog-item-3 .content {
         padding-right: 0; } }
     @media (max-width: 767px) {
-      .appie-blog-item-3 .content {
+      .Nearoo-blog-item-3 .content {
         padding-right: 0;
         margin-top: 20px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-blog-item-3 .content {
+      .Nearoo-blog-item-3 .content {
         padding-right: 50px;
         margin-top: 0; } }
-    .appie-blog-item-3 .content .title {
+    .Nearoo-blog-item-3 .content .title {
       font-size: 22px;
       line-height: 32px;
       margin-bottom: 8px; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
-        .appie-blog-item-3 .content .title {
+        .Nearoo-blog-item-3 .content .title {
           font-size: 18px;
           line-height: 28px; } }
-      .appie-blog-item-3 .content .title a {
+      .Nearoo-blog-item-3 .content .title a {
         color: #0e1133; }
-        .appie-blog-item-3 .content .title a:hover {
+        .Nearoo-blog-item-3 .content .title a:hover {
           color: #ff6b58; }
-    .appie-blog-item-3 .content ul {
+    .Nearoo-blog-item-3 .content ul {
       margin: 0;
       padding: 0;
       list-style-type: none; }
-      .appie-blog-item-3 .content ul li {
+      .Nearoo-blog-item-3 .content ul li {
         display: inline-block;
         font-size: 14px;
         font-weight: 400;
         color: #505056;
         margin-right: 22px; }
-        .appie-blog-item-3 .content ul li i {
+        .Nearoo-blog-item-3 .content ul li i {
           padding-right: 6px; }
-        .appie-blog-item-3 .content ul li a {
+        .Nearoo-blog-item-3 .content ul li a {
           color: #505056;
           font-size: 14px;
           font-weight: 400; }
-  .appie-blog-item-3:hover .thumb img {
+  .Nearoo-blog-item-3:hover .thumb img {
     transform: scale(1.1); }
-  .appie-blog-item-3.appie-blog-item-6 .content .title a:hover {
+  .Nearoo-blog-item-3.Nearoo-blog-item-6 .content .title a:hover {
     color: #9b2cfa; }
-  .appie-blog-item-3.appie-blog-item-8 {
+  .Nearoo-blog-item-3.Nearoo-blog-item-8 {
     background: #fff; }
-    .appie-blog-item-3.appie-blog-item-8 .content .title a:hover {
+    .Nearoo-blog-item-3.Nearoo-blog-item-8 .content .title a:hover {
       color: #db0f30; }
 
 /*--------------------------------------------------------
@@ -4732,9 +4706,9 @@ blockquote cite {
     color: #ff0000; }
 
 /*===========================
-    10.APPIE PROJECT css 
+    10.Nearoo PROJECT css 
 ===========================*/
-.appie-project-area .appie-project-box {
+.Nearoo-project-area .Nearoo-project-box {
   background-image: url(../images/project-bg.jpg);
   background-size: cover;
   background-position: center;
@@ -4746,62 +4720,62 @@ blockquote cite {
   overflow: hidden;
   border-radius: 10px; }
   @media (max-width: 767px) {
-    .appie-project-area .appie-project-box {
+    .Nearoo-project-area .Nearoo-project-box {
       padding-left: 30px; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .appie-project-area .appie-project-box {
+    .Nearoo-project-area .Nearoo-project-box {
       padding-left: 70px; } }
-  .appie-project-area .appie-project-box .appie-project-thumb {
+  .Nearoo-project-area .Nearoo-project-box .Nearoo-project-thumb {
     position: absolute;
     right: 70px;
     bottom: 0; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-project-area .appie-project-box .appie-project-thumb {
+      .Nearoo-project-area .Nearoo-project-box .Nearoo-project-thumb {
         right: 30px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-project-area .appie-project-box .appie-project-thumb {
+      .Nearoo-project-area .Nearoo-project-box .Nearoo-project-thumb {
         display: none; } }
     @media (max-width: 767px) {
-      .appie-project-area .appie-project-box .appie-project-thumb {
+      .Nearoo-project-area .Nearoo-project-box .Nearoo-project-thumb {
         display: none; } }
 
-.appie-project-content {
+.Nearoo-project-content {
   padding-right: 50px; }
-  .appie-project-content .title {
+  .Nearoo-project-content .title {
     color: #fff;
     font-size: 50px;
     line-height: 60px;
     padding-bottom: 10px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-project-content .title {
+      .Nearoo-project-content .title {
         font-size: 36px;
         line-height: 46px; } }
     @media (max-width: 767px) {
-      .appie-project-content .title {
+      .Nearoo-project-content .title {
         font-size: 30px;
         line-height: 40px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-project-content .title {
+      .Nearoo-project-content .title {
         font-size: 36px;
         line-height: 46px; } }
-  .appie-project-content p {
+  .Nearoo-project-content p {
     color: #fff;
     opacity: 0.8; }
-  .appie-project-content .input-box {
+  .Nearoo-project-content .input-box {
     display: flex; }
     @media (max-width: 767px) {
-      .appie-project-content .input-box {
+      .Nearoo-project-content .input-box {
         display: block; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-project-content .input-box {
+      .Nearoo-project-content .input-box {
         display: flex; } }
-    .appie-project-content .input-box input {
+    .Nearoo-project-content .input-box input {
       width: 100%;
       height: 50px;
       padding-left: 30px;
       border-radius: 6px;
       border: 0; }
-    .appie-project-content .input-box button {
+    .Nearoo-project-content .input-box button {
       margin-left: 10px;
       padding: 0 30px;
       border-radius: 6px;
@@ -4811,18 +4785,18 @@ blockquote cite {
       color: #fff;
       line-height: 50px; }
       @media (max-width: 767px) {
-        .appie-project-content .input-box button {
+        .Nearoo-project-content .input-box button {
           margin-top: 20px;
           margin-left: 0; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .appie-project-content .input-box button {
+        .Nearoo-project-content .input-box button {
           margin-top: 0px;
           margin-left: 10px; } }
 
-.appie-project-3-area.appie-project-5-area {
+.Nearoo-project-3-area.Nearoo-project-5-area {
   background: #eef1f6; }
 
-.appie-project-3-box {
+.Nearoo-project-3-box {
   background-image: url(../images/project-bg-2.jpg);
   background-size: cover;
   background-position: center;
@@ -4835,22 +4809,22 @@ blockquote cite {
   overflow: hidden;
   z-index: 10; }
   @media (max-width: 767px) {
-    .appie-project-3-box {
+    .Nearoo-project-3-box {
       text-align: center; } }
-  .appie-project-3-box .title {
+  .Nearoo-project-3-box .title {
     color: #fff;
     font-size: 46px;
     line-height: 56px; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-project-3-box .title {
+      .Nearoo-project-3-box .title {
         font-size: 36px;
         line-height: 46px; } }
     @media (max-width: 767px) {
-      .appie-project-3-box .title {
+      .Nearoo-project-3-box .title {
         font-size: 35px;
         line-height: 46px;
         margin-bottom: 30px; } }
-  .appie-project-3-box a {
+  .Nearoo-project-3-box a {
     background: #fff;
     color: #0e1133;
     border-color: #fff;
@@ -4858,41 +4832,41 @@ blockquote cite {
     padding: 0 40px; }
 
 /*===========================
-    10.APPIE FOOTER css 
+    10.Nearoo FOOTER css 
 ===========================*/
-.appie-footer-area {
+.Nearoo-footer-area {
   background: #eef1f6;
   padding-top: 50px;
   padding-bottom: 60px; }
-  .appie-footer-area.appie-footer-3-area {
+  .Nearoo-footer-area.Nearoo-footer-3-area {
     padding-top: 180px; }
-    .appie-footer-area.appie-footer-3-area.appie-footer-5-area {
+    .Nearoo-footer-area.Nearoo-footer-3-area.Nearoo-footer-5-area {
       background: #fff; }
-  .appie-footer-area.appie-footer-about-area {
+  .Nearoo-footer-area.Nearoo-footer-about-area {
     padding-top: 230px; }
-    .appie-footer-area.appie-footer-about-area.appie-footer-8-area {
+    .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area {
       background: #fff; }
-      .appie-footer-area.appie-footer-about-area.appie-footer-8-area .footer-about-widget .social ul li a {
+      .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area .footer-about-widget .social ul li a {
         border: 2px solid #e6e7ea; }
-        .appie-footer-area.appie-footer-about-area.appie-footer-8-area .footer-about-widget .social ul li a:hover {
+        .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area .footer-about-widget .social ul li a:hover {
           background: #db0f30;
           border-color: #db0f30;
           color: #fff; }
-      .appie-footer-area.appie-footer-about-area.appie-footer-8-area .footer-navigation ul li a:hover {
+      .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area .footer-navigation ul li a:hover {
         color: #db0f30; }
-      .appie-footer-area.appie-footer-about-area.appie-footer-8-area .footer-widget-info ul li a i {
+      .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area .footer-widget-info ul li a i {
         color: #db0f30; }
-      .appie-footer-area.appie-footer-about-area.appie-footer-8-area .footer-copyright .apps-download-btn ul li a {
+      .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area .footer-copyright .apps-download-btn ul li a {
         background: #0e1133;
         color: #fff;
         border-color: #0e1133; }
-        .appie-footer-area.appie-footer-about-area.appie-footer-8-area .footer-copyright .apps-download-btn ul li a:hover {
+        .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area .footer-copyright .apps-download-btn ul li a:hover {
           background: #fff;
           color: #0e1133; }
-        .appie-footer-area.appie-footer-about-area.appie-footer-8-area .footer-copyright .apps-download-btn ul li a.item-2 {
+        .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area .footer-copyright .apps-download-btn ul li a.item-2 {
           background: #fff;
           color: #0e1133; }
-          .appie-footer-area.appie-footer-about-area.appie-footer-8-area .footer-copyright .apps-download-btn ul li a.item-2:hover {
+          .Nearoo-footer-area.Nearoo-footer-about-area.Nearoo-footer-8-area .footer-copyright .apps-download-btn ul li a.item-2:hover {
             background: #0e1133;
             color: #fff;
             border-color: #0e1133; }
@@ -5046,38 +5020,38 @@ blockquote cite {
             background: #fff;
             color: #0e1133; }
 
-.appie-error-area {
+.Nearoo-error-area {
   padding-top: 250px; }
 
-.appie-error-content span {
+.Nearoo-error-content span {
   display: block;
   font-size: 50px;
   color: #db0f30;
   font-weight: 800;
   padding-top: 40px; }
-.appie-error-content .title {
+.Nearoo-error-content .title {
   font-size: 50px;
   font-weight: 800;
   color: #0e1133;
   padding-bottom: 11px; }
-.appie-error-content p {
+.Nearoo-error-content p {
   line-height: 26px;
   color: #505056;
   font-size: 16px;
   padding: 0 50px; }
-.appie-error-content a {
+.Nearoo-error-content a {
   border: 2px solid #ff0000;
   line-height: 45px;
   padding: 0 35px;
   border-radius: 6px;
   margin-top: 30px; }
 
-.appie-signup-area.appie-signup-8-area {
+.Nearoo-signup-area.Nearoo-signup-8-area {
   background: #eef1f6; }
-  .appie-signup-area.appie-signup-8-area .appie-signup-box form .input-box button {
+  .Nearoo-signup-area.Nearoo-signup-8-area .Nearoo-signup-box form .input-box button {
     background: #db0f30; }
 
-.appie-signup-box {
+.Nearoo-signup-box {
   background-image: url(../images/signup-bg.jpg);
   padding: 63px 100px 60px;
   border-radius: 10px;
@@ -5086,45 +5060,45 @@ blockquote cite {
   position: relative;
   margin-bottom: -160px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-signup-box {
+    .Nearoo-signup-box {
       padding: 30px 50px; } }
   @media (max-width: 767px) {
-    .appie-signup-box {
+    .Nearoo-signup-box {
       padding: 30px; } }
-  .appie-signup-box .thumb {
+  .Nearoo-signup-box .thumb {
     position: absolute;
     right: 70px;
     bottom: 30px;
     width: 160px; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-signup-box .thumb {
+      .Nearoo-signup-box .thumb {
         display: none; } }
     @media (max-width: 767px) {
-      .appie-signup-box .thumb {
+      .Nearoo-signup-box .thumb {
         display: none; } }
-  .appie-signup-box span {
+  .Nearoo-signup-box span {
     color: #fff;
     font-weight: 500; }
-  .appie-signup-box .title {
+  .Nearoo-signup-box .title {
     font-size: 46px;
     color: #fff;
     padding-bottom: 20px; }
     @media (max-width: 767px) {
-      .appie-signup-box .title {
+      .Nearoo-signup-box .title {
         font-size: 30px; } }
-  .appie-signup-box form {
+  .Nearoo-signup-box form {
     display: flex;
     flex-wrap: wrap; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-signup-box form {
+      .Nearoo-signup-box form {
         flex-direction: column; } }
     @media (max-width: 767px) {
-      .appie-signup-box form {
+      .Nearoo-signup-box form {
         flex-direction: column; } }
-    .appie-signup-box form .input-box {
+    .Nearoo-signup-box form .input-box {
       margin-right: 10px;
       margin-top: 10px; }
-      .appie-signup-box form .input-box input {
+      .Nearoo-signup-box form .input-box input {
         width: 300px;
         background: #fff;
         line-height: 55px;
@@ -5132,12 +5106,12 @@ blockquote cite {
         padding-left: 30px;
         border: 0; }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
-          .appie-signup-box form .input-box input {
+          .Nearoo-signup-box form .input-box input {
             width: 100%; } }
         @media (max-width: 767px) {
-          .appie-signup-box form .input-box input {
+          .Nearoo-signup-box form .input-box input {
             width: 100%; } }
-      .appie-signup-box form .input-box button {
+      .Nearoo-signup-box form .input-box button {
         background: #ff0000;
         line-height: 55px;
         border: 0;
@@ -5146,24 +5120,24 @@ blockquote cite {
         padding: 0 45px;
         font-weight: 500; }
 
-.appie_checkbox_common {
+.Nearoo_checkbox_common {
   margin-top: 15px; }
 
-.appie_checkbox_common label {
+.Nearoo_checkbox_common label {
   color: #fff;
   font-size: 14px;
   margin-bottom: 12px;
   cursor: pointer;
   font-weight: 400; }
 
-.appie_checkbox_common label a {
+.Nearoo_checkbox_common label a {
   text-decoration: underline;
   color: #b3b6bc; }
 
-.appie_checkbox_common input[type="checkbox"] {
+.Nearoo_checkbox_common input[type="checkbox"] {
   display: none; }
 
-.appie_checkbox_common input[type="checkbox"] + label span {
+.Nearoo_checkbox_common input[type="checkbox"] + label span {
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -5175,7 +5149,7 @@ blockquote cite {
   border: 2px solid #fff;
   position: relative; }
 
-.appie_checkbox_common input[type="checkbox"] + label span:before {
+.Nearoo_checkbox_common input[type="checkbox"] + label span:before {
   color: #fff;
   content: "\f00c";
   font-family: 'Font Awesome 5 Pro';
@@ -5195,84 +5169,84 @@ blockquote cite {
   -o-transition: 0.2s;
   transition: 0.2s; }
 
-.appie_checkbox_common input[type="checkbox"]:checked + label span {
+.Nearoo_checkbox_common input[type="checkbox"]:checked + label span {
   background: #2079ff;
   border-color: #2079ff; }
 
-.appie_checkbox_common input[type="checkbox"]:checked + label span:before {
+.Nearoo_checkbox_common input[type="checkbox"]:checked + label span:before {
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -ms-transform: scale(1);
   -o-transform: scale(1);
   transform: scale(1); }
 
-.appie_checkbox_common input[type="checkbox"] + label span,
-.appie_checkbox_common input[type="checkbox"]:checked + label span {
+.Nearoo_checkbox_common input[type="checkbox"] + label span,
+.Nearoo_checkbox_common input[type="checkbox"]:checked + label span {
   -webkit-transition: background-color 0.2s linear;
   -o-transition: background-color 0.2s linear;
   -moz-transition: background-color 0.2s linear;
   transition: background-color 0.2s linear; }
 
-.appie_checkbox_common.checkbox_style2 input[type="checkbox"] + label span {
+.Nearoo_checkbox_common.checkbox_style2 input[type="checkbox"] + label span {
   border-radius: 3px; }
 
 /*===========================
-    11.APPIE ABOUT css 
+    11.Nearoo ABOUT css 
 ===========================*/
-.appie-about-box {
+.Nearoo-about-box {
   background: #f0f1f7;
   padding: 70px;
   overflow: hidden;
   position: relative; }
   @media (max-width: 767px) {
-    .appie-about-box {
+    .Nearoo-about-box {
       padding: 30px;
       text-align: center; } }
-  .appie-about-box .about-thumb {
+  .Nearoo-about-box .about-thumb {
     position: absolute;
     left: 0;
     top: -65px; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-about-box .about-thumb {
+      .Nearoo-about-box .about-thumb {
         position: static; } }
     @media (max-width: 767px) {
-      .appie-about-box .about-thumb {
+      .Nearoo-about-box .about-thumb {
         display: none; } }
 
-.appie-about-content {
+.Nearoo-about-content {
   padding-right: 50px; }
   @media (max-width: 767px) {
-    .appie-about-content {
+    .Nearoo-about-content {
       padding-right: 0; } }
-  .appie-about-content span {
+  .Nearoo-about-content span {
     font-size: 14px;
     font-weight: 500;
     color: #f50000; }
-  .appie-about-content .title {
+  .Nearoo-about-content .title {
     font-size: 44px;
     line-height: 54px;
     margin-top: 8px;
     margin-bottom: 12px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-about-content .title {
+      .Nearoo-about-content .title {
         font-size: 32px;
         line-height: 42px; } }
     @media (max-width: 767px) {
-      .appie-about-content .title {
+      .Nearoo-about-content .title {
         font-size: 30px;
         line-height: 40px; } }
 
-.appie-about-service {
+.Nearoo-about-service {
   position: relative;
   padding-left: 40px; }
   @media (max-width: 767px) {
-    .appie-about-service {
+    .Nearoo-about-service {
       text-align: left; } }
-  .appie-about-service .icon {
+  .Nearoo-about-service .icon {
     position: absolute;
     left: 0;
     top: 5px; }
-    .appie-about-service .icon i {
+    .Nearoo-about-service .icon i {
       height: 26px;
       width: 26px;
       text-align: center;
@@ -5280,48 +5254,48 @@ blockquote cite {
       border-radius: 50%;
       color: #fff;
       background: #31c369; }
-  .appie-about-service .title {
+  .Nearoo-about-service .title {
     font-size: 20px;
     font-weight: 700; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-about-service .title {
+      .Nearoo-about-service .title {
         font-size: 16px; } }
-  .appie-about-service p {
+  .Nearoo-about-service p {
     font-size: 15px;
     margin-top: 8px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-about-service p {
+      .Nearoo-about-service p {
         font-size: 14px; } }
 
-.appie-about-3-area .appie-traffic-title {
+.Nearoo-about-3-area .Nearoo-traffic-title {
   padding-right: 100px; }
   @media (max-width: 767px) {
-    .appie-about-3-area .appie-traffic-title {
+    .Nearoo-about-3-area .Nearoo-traffic-title {
       text-align: center;
       padding-right: 0; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .appie-about-3-area .appie-traffic-title {
+    .Nearoo-about-3-area .Nearoo-traffic-title {
       text-align: left;
       padding-right: 50px; } }
-  .appie-about-3-area .appie-traffic-title .title {
+  .Nearoo-about-3-area .Nearoo-traffic-title .title {
     margin-bottom: 15px; }
-.appie-about-3-area .appie-traffic-service {
+.Nearoo-about-3-area .Nearoo-traffic-service {
   padding-left: 0;
   padding-right: 50px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-about-3-area .appie-traffic-service {
+    .Nearoo-about-3-area .Nearoo-traffic-service {
       padding-right: 0; } }
   @media (max-width: 767px) {
-    .appie-about-3-area .appie-traffic-service {
+    .Nearoo-about-3-area .Nearoo-traffic-service {
       text-align: center;
       padding-right: 30px;
       padding-left: 30px; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .appie-about-3-area .appie-traffic-service {
+    .Nearoo-about-3-area .Nearoo-traffic-service {
       text-align: left;
       padding-right: 50px;
       padding-left: 0; } }
-  .appie-about-3-area .appie-traffic-service .icon {
+  .Nearoo-about-3-area .Nearoo-traffic-service .icon {
     position: static;
     background-image: -moz-linear-gradient(120deg, #ff0000 0%, #84bcfa 100%);
     background-image: -webkit-linear-gradient(120deg, #ff0000 0%, #84bcfa 100%);
@@ -5334,56 +5308,56 @@ blockquote cite {
     line-height: 50px;
     box-shadow: 0px 6px 10px 0px rgba(16, 73, 189, 0.3);
     margin-bottom: 23px; }
-  .appie-about-3-area .appie-traffic-service.item-2 .icon {
+  .Nearoo-about-3-area .Nearoo-traffic-service.item-2 .icon {
     background-image: -moz-linear-gradient(120deg, #31c369 0%, #a0eac2 100%);
     background-image: -webkit-linear-gradient(120deg, #31c369 0%, #a0eac2 100%);
     background-image: -ms-linear-gradient(120deg, #31c369 0%, #a0eac2 100%); }
-  .appie-about-3-area .appie-traffic-service.item-3 .icon {
+  .Nearoo-about-3-area .Nearoo-traffic-service.item-3 .icon {
     background-image: -moz-linear-gradient(120deg, #9b2cfa 0%, #d8aaff 100%);
     background-image: -webkit-linear-gradient(120deg, #9b2cfa 0%, #d8aaff 100%);
     background-image: -ms-linear-gradient(120deg, #9b2cfa 0%, #d8aaff 100%); }
-  .appie-about-3-area .appie-traffic-service.item-4 .icon {
+  .Nearoo-about-3-area .Nearoo-traffic-service.item-4 .icon {
     background-image: -moz-linear-gradient(120deg, #f8452d 0%, #f7b8af 100%);
     background-image: -webkit-linear-gradient(120deg, #f8452d 0%, #f7b8af 100%);
     background-image: -ms-linear-gradient(120deg, #f8452d 0%, #f7b8af 100%); }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-about-thumb-3 {
+  .Nearoo-about-thumb-3 {
     margin-bottom: 40px; } }
 @media (max-width: 767px) {
-  .appie-about-thumb-3 {
+  .Nearoo-about-thumb-3 {
     margin-bottom: 40px; } }
-.appie-about-thumb-3 img {
+.Nearoo-about-thumb-3 img {
   width: 100%; }
 
-.appie-about-top-title-area {
+.Nearoo-about-top-title-area {
   padding-top: 227px; }
 
-.appie-about-top-title {
+.Nearoo-about-top-title {
   padding-right: 65px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-about-top-title {
+    .Nearoo-about-top-title {
       padding-right: 0; } }
   @media (max-width: 767px) {
-    .appie-about-top-title {
+    .Nearoo-about-top-title {
       padding-right: 0; } }
-  .appie-about-top-title .title {
+  .Nearoo-about-top-title .title {
     font-size: 60px;
     position: relative;
     z-index: 10; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-about-top-title .title {
+      .Nearoo-about-top-title .title {
         font-size: 52px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-about-top-title .title {
+      .Nearoo-about-top-title .title {
         font-size: 44px; } }
     @media (max-width: 767px) {
-      .appie-about-top-title .title {
+      .Nearoo-about-top-title .title {
         font-size: 32px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-about-top-title .title {
+      .Nearoo-about-top-title .title {
         font-size: 40px; } }
-    .appie-about-top-title .title::before {
+    .Nearoo-about-top-title .title::before {
       position: absolute;
       content: '';
       left: 0;
@@ -5392,21 +5366,21 @@ blockquote cite {
       height: 20px;
       background: #ff6e85;
       z-index: -1; }
-  .appie-about-top-title p {
+  .Nearoo-about-top-title p {
     font-size: 20px;
     color: #0e1133;
     padding-top: 18px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-about-top-title p {
+      .Nearoo-about-top-title p {
         font-size: 16px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-about-top-title p {
+      .Nearoo-about-top-title p {
         font-size: 16px; } }
     @media (max-width: 767px) {
-      .appie-about-top-title p {
+      .Nearoo-about-top-title p {
         font-size: 16px; } }
 
-.appie-about-page-area {
+.Nearoo-about-page-area {
   padding-top: 462px;
   padding-bottom: 100px;
   background-image: url(../images/about-page-bg.jpg);
@@ -5415,21 +5389,21 @@ blockquote cite {
   background-repeat: no-repeat;
   margin-top: 345px; }
   @media (max-width: 767px) {
-    .appie-about-page-area {
+    .Nearoo-about-page-area {
       margin-top: 80px;
       padding-top: 80px; } }
 
-.appie-about-page-content {
+.Nearoo-about-page-content {
   position: relative; }
-  .appie-about-page-content .title {
+  .Nearoo-about-page-content .title {
     font-size: 36px;
     font-weight: 700;
     color: #fff; }
-  .appie-about-page-content p {
+  .Nearoo-about-page-content p {
     color: #fff;
     padding-top: 15px;
     opacity: 0.7; }
-  .appie-about-page-content a {
+  .Nearoo-about-page-content a {
     color: #fff;
     border: 2px solid #fff;
     border-radius: 10px;
@@ -5438,10 +5412,10 @@ blockquote cite {
     font-size: 14px;
     font-weight: 500;
     margin-top: 43px; }
-    .appie-about-page-content a:hover {
+    .Nearoo-about-page-content a:hover {
       background: #fff;
       color: #ff0000; }
-  .appie-about-page-content::before {
+  .Nearoo-about-page-content::before {
     position: absolute;
     content: '';
     left: 0;
@@ -5453,30 +5427,30 @@ blockquote cite {
     background-position: center;
     background-repeat: no-repeat; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-about-page-content::before {
+      .Nearoo-about-page-content::before {
         width: 94vw; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-about-page-content::before {
+      .Nearoo-about-page-content::before {
         width: 100%; } }
     @media (max-width: 767px) {
-      .appie-about-page-content::before {
+      .Nearoo-about-page-content::before {
         display: none; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-about-page-content::before {
+      .Nearoo-about-page-content::before {
         width: 100%;
         height: 400px;
         display: block; } }
 
-.appie-how-it-work-content > .title {
+.Nearoo-how-it-work-content > .title {
   font-size: 44px; }
-.appie-how-it-work-content p {
+.Nearoo-how-it-work-content p {
   font-size: 18px;
   padding-top: 9px; }
-.appie-how-it-work-content .how-it-work-box {
+.Nearoo-how-it-work-content .how-it-work-box {
   position: relative;
   padding-left: 70px;
   margin-top: 45px; }
-  .appie-how-it-work-content .how-it-work-box span {
+  .Nearoo-how-it-work-content .how-it-work-box span {
     position: absolute;
     left: 0;
     top: 50%;
@@ -5490,21 +5464,21 @@ blockquote cite {
     color: #ff0000;
     font-size: 22px;
     font-weight: 500; }
-  .appie-how-it-work-content .how-it-work-box .title {
+  .Nearoo-how-it-work-content .how-it-work-box .title {
     font-size: 18px;
     font-weight: 500; }
-  .appie-how-it-work-content .how-it-work-box:hover span {
+  .Nearoo-how-it-work-content .how-it-work-box:hover span {
     background: #ff0000;
     box-shadow: 0px 14px 20px 0px rgba(0, 43, 130, 0.3);
     color: #fff; }
 
-.appie-about-8-area {
+.Nearoo-about-8-area {
   background-image: url(../images/background-bg.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; }
 
-.appie-about-8-box {
+.Nearoo-about-8-box {
   padding: 50px 50px 145px;
   background: #fff;
   border-radius: 6px;
@@ -5513,56 +5487,56 @@ blockquote cite {
   overflow: hidden;
   z-index: 10; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-about-8-box {
+    .Nearoo-about-8-box {
       padding: 50px 25px 145px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-about-8-box {
+    .Nearoo-about-8-box {
       margin-bottom: 30px; } }
   @media (max-width: 767px) {
-    .appie-about-8-box {
+    .Nearoo-about-8-box {
       margin-bottom: 30px;
       padding: 50px 20px 145px; } }
-  .appie-about-8-box .thumb {
+  .Nearoo-about-8-box .thumb {
     position: absolute;
     right: 0;
     bottom: 0;
     z-index: -1; }
-  .appie-about-8-box .title {
+  .Nearoo-about-8-box .title {
     font-size: 30px;
     line-height: 40px;
     font-weight: 500;
     margin-bottom: 14px; }
     @media (max-width: 767px) {
-      .appie-about-8-box .title {
+      .Nearoo-about-8-box .title {
         font-size: 24px;
         line-height: 34px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-about-8-box .title {
+      .Nearoo-about-8-box .title {
         font-size: 30px;
         line-height: 40px; } }
-  .appie-about-8-box a {
+  .Nearoo-about-8-box a {
     border: 2px solid #db0f30;
     color: #db0f30;
     background: #fff;
     margin-top: 30px; }
-    .appie-about-8-box a:hover {
+    .Nearoo-about-8-box a:hover {
       color: #fff;
       background: #db0f30;
       border-color: #db0f30; }
 
 /*===========================
-    12.APPIE COUNTER css 
+    12.Nearoo COUNTER css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-counter-area {
+  .Nearoo-counter-area {
     padding-bottom: 100px; } }
 @media (max-width: 767px) {
-  .appie-counter-area {
+  .Nearoo-counter-area {
     padding-bottom: 100px; } }
-.appie-counter-area.appie-counter-5-area {
+.Nearoo-counter-area.Nearoo-counter-5-area {
   background: #eef1f6; }
 
-.appie-single-counter {
+.Nearoo-single-counter {
   padding: 30px;
   position: relative;
   background: #fff;
@@ -5572,53 +5546,53 @@ blockquote cite {
   background-image: -ms-linear-gradient(140deg, #ddf4fd 0%, #eaf9ff 100%);
   border-radius: 10px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-single-counter {
+    .Nearoo-single-counter {
       padding: 20px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-single-counter {
+    .Nearoo-single-counter {
       margin-bottom: 90px; } }
   @media (max-width: 767px) {
-    .appie-single-counter {
+    .Nearoo-single-counter {
       margin-bottom: 90px; } }
-  .appie-single-counter .counter-content {
+  .Nearoo-single-counter .counter-content {
     background: #fff;
     text-align: center;
     border-radius: 6px;
     box-shadow: 0px 30px 40px 0px rgba(0, 41, 57, 0.1);
     padding-top: 37px;
     padding-bottom: 40px; }
-    .appie-single-counter .counter-content .title {
+    .Nearoo-single-counter .counter-content .title {
       font-size: 40px;
       font-weight: 400;
       margin-top: 5px; }
-      .appie-single-counter .counter-content .title span {
+      .Nearoo-single-counter .counter-content .title span {
         font-weight: 700; }
-    .appie-single-counter .counter-content p {
+    .Nearoo-single-counter .counter-content p {
       font-size: 14px;
       font-weight: 500; }
-  .appie-single-counter.item-2 {
+  .Nearoo-single-counter.item-2 {
     background-image: -moz-linear-gradient(140deg, #fdead3 0%, #fff7ee 100%);
     background-image: -webkit-linear-gradient(140deg, #fdead3 0%, #fff7ee 100%);
     background-image: -ms-linear-gradient(140deg, #fdead3 0%, #fff7ee 100%); }
-    .appie-single-counter.item-2 .counter-content {
+    .Nearoo-single-counter.item-2 .counter-content {
       box-shadow: 0px 30px 40px 0px rgba(56, 31, 0, 0.1); }
-  .appie-single-counter.item-3 {
+  .Nearoo-single-counter.item-3 {
     background-image: -moz-linear-gradient(140deg, #dafedb 0%, #f0fcf0 100%);
     background-image: -webkit-linear-gradient(140deg, #dafedb 0%, #f0fcf0 100%);
     background-image: -ms-linear-gradient(140deg, #dafedb 0%, #f0fcf0 100%); }
-    .appie-single-counter.item-3 .counter-content {
+    .Nearoo-single-counter.item-3 .counter-content {
       box-shadow: 0px 30px 40px 0px rgba(0, 74, 1, 0.1); }
-  .appie-single-counter.item-4 {
+  .Nearoo-single-counter.item-4 {
     background-image: -moz-linear-gradient(140deg, #fedaf4 0%, #fceff7 100%);
     background-image: -webkit-linear-gradient(140deg, #fedaf4 0%, #fceff7 100%);
     background-image: -ms-linear-gradient(140deg, #fedaf4 0%, #fceff7 100%); }
-    .appie-single-counter.item-4 .counter-content {
+    .Nearoo-single-counter.item-4 .counter-content {
       box-shadow: 0px 30px 40px 0px rgba(74, 0, 54, 0.1); }
 
 /*===========================
-    13.APPIE VIDEO PLAYER css 
+    13.Nearoo VIDEO PLAYER css 
 ===========================*/
-.appie-video-player-slider .slick-arrow {
+.Nearoo-video-player-slider .slick-arrow {
   position: absolute;
   right: 0;
   bottom: -90px;
@@ -5631,34 +5605,34 @@ blockquote cite {
   border-radius: 50%;
   z-index: 9;
   cursor: pointer; }
-  .appie-video-player-slider .slick-arrow:hover {
+  .Nearoo-video-player-slider .slick-arrow:hover {
     background: #f50000;
     color: #fff;
     border-color: #f50000; }
-  .appie-video-player-slider .slick-arrow.prev {
+  .Nearoo-video-player-slider .slick-arrow.prev {
     right: 60px; }
-  .appie-video-player-slider .slick-arrow.next {
+  .Nearoo-video-player-slider .slick-arrow.next {
     right: 0; }
-.appie-video-player-slider .item img {
+.Nearoo-video-player-slider .item img {
   width: 100%; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .appie-video-player-item {
+  .Nearoo-video-player-item {
     margin-bottom: 50px; } }
 @media (max-width: 767px) {
-  .appie-video-player-item {
+  .Nearoo-video-player-item {
     margin-bottom: 50px; } }
-.appie-video-player-item .thumb {
+.Nearoo-video-player-item .thumb {
   position: relative;
   overflow: hidden; }
-  .appie-video-player-item .thumb img {
+  .Nearoo-video-player-item .thumb img {
     width: 100%; }
-  .appie-video-player-item .thumb .video-popup {
+  .Nearoo-video-player-item .thumb .video-popup {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); }
-    .appie-video-player-item .thumb .video-popup a {
+    .Nearoo-video-player-item .thumb .video-popup a {
       height: 90px;
       width: 90px;
       background: #fff;
@@ -5668,7 +5642,7 @@ blockquote cite {
       border-radius: 50%;
       font-size: 20px;
       position: relative; }
-      .appie-video-player-item .thumb .video-popup a::before {
+      .Nearoo-video-player-item .thumb .video-popup a::before {
         position: absolute;
         content: '';
         left: 0;
@@ -5678,31 +5652,31 @@ blockquote cite {
         border: 1px solid #fff;
         border-radius: 50%;
         animation: linear infinite popup 1.5s; }
-.appie-video-player-item .content {
+.Nearoo-video-player-item .content {
   padding-left: 100px;
   padding-top: 35px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-video-player-item .content {
+    .Nearoo-video-player-item .content {
       padding-left: 30px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-video-player-item .content {
+    .Nearoo-video-player-item .content {
       padding-left: 0px; } }
   @media (max-width: 767px) {
-    .appie-video-player-item .content {
+    .Nearoo-video-player-item .content {
       padding-left: 0px; } }
-  .appie-video-player-item .content .title {
+  .Nearoo-video-player-item .content .title {
     font-size: 30px;
     margin-bottom: 12px; }
     @media (max-width: 767px) {
-      .appie-video-player-item .content .title {
+      .Nearoo-video-player-item .content .title {
         font-size: 26px; } }
-  .appie-video-player-item .content a {
+  .Nearoo-video-player-item .content a {
     border-radius: 30px;
     border: 2px solid #e7eaef;
     background: #fff;
     color: #0e1133;
     margin-top: 33px; }
-    .appie-video-player-item .content a:hover {
+    .Nearoo-video-player-item .content a:hover {
       background: #f50000;
       border-color: #fff;
       color: #fff; }
@@ -5723,17 +5697,17 @@ blockquote cite {
   100% {
     transform: scale(1.4);
     opacity: 0; } }
-.appie-video-player-6-area .appie-video-player-item .content a:hover {
+.Nearoo-video-player-6-area .Nearoo-video-player-item .content a:hover {
   background: #9b2cfa;
   border-color: #9b2cfa; }
-.appie-video-player-6-area .appie-video-player-slider .slick-arrow:hover {
+.Nearoo-video-player-6-area .Nearoo-video-player-slider .slick-arrow:hover {
   background: #9b2cfa;
   border-color: #9b2cfa; }
 
 /*===========================
-    14.APPIE DOWNLOAD css 
+    14.Nearoo DOWNLOAD css 
 ===========================*/
-.appie-download-area {
+.Nearoo-download-area {
   background-image: url(../images/download-bg.png);
   background-size: cover;
   background-position: center;
@@ -5742,10 +5716,10 @@ blockquote cite {
   position: relative;
   z-index: 10; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-download-area {
+    .Nearoo-download-area {
       padding-top: 80px;
       padding-bottom: 80px; } }
-  .appie-download-area::before {
+  .Nearoo-download-area::before {
     position: absolute;
     content: '';
     right: 170px;
@@ -5759,58 +5733,58 @@ blockquote cite {
     background-repeat: no-repeat;
     z-index: -1; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-download-area::before {
+      .Nearoo-download-area::before {
         right: 0;
         width: 550px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-download-area::before {
+      .Nearoo-download-area::before {
         display: none; } }
     @media (max-width: 767px) {
-      .appie-download-area::before {
+      .Nearoo-download-area::before {
         display: none; } }
-  .appie-download-area .download-shape-1 {
+  .Nearoo-download-area .download-shape-1 {
     position: absolute;
     left: 95px;
     top: 95px;
     z-index: -1;
     animation: linear 20s animationFramesFour infinite; }
-  .appie-download-area .download-shape-2 {
+  .Nearoo-download-area .download-shape-2 {
     position: absolute;
     left: 150px;
     bottom: 100px;
     z-index: -1;
     animation: linear 20s animationFramesTwo infinite; }
-  .appie-download-area .download-shape-3 {
+  .Nearoo-download-area .download-shape-3 {
     position: absolute;
     top: 140px;
     right: 250px;
     z-index: -1;
     animation: linear 20s animationFramesFive infinite; }
 
-.appie-download-content > span {
+.Nearoo-download-content > span {
   font-size: 14px;
   font-weight: 500;
   color: #f50000; }
-.appie-download-content .title {
+.Nearoo-download-content .title {
   font-size: 44px;
   line-height: 54px;
   margin-top: 9px;
   margin-bottom: 13px; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
-    .appie-download-content .title {
+    .Nearoo-download-content .title {
       font-size: 36px;
       line-height: 46px; } }
   @media (max-width: 767px) {
-    .appie-download-content .title {
+    .Nearoo-download-content .title {
       font-size: 30px;
       line-height: 40px; } }
-.appie-download-content ul {
+.Nearoo-download-content ul {
   margin: 30px 0 0;
   padding: 0;
   list-style-type: none; }
-  .appie-download-content ul li {
+  .Nearoo-download-content ul li {
     display: inline-block; }
-    .appie-download-content ul li a {
+    .Nearoo-download-content ul li a {
       background: #0e1133;
       color: #fff;
       padding-left: 22px;
@@ -5823,38 +5797,38 @@ blockquote cite {
       margin-right: 8px;
       border: 2px solid #0e1133; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
-        .appie-download-content ul li a {
+        .Nearoo-download-content ul li a {
           padding-right: 20px; } }
       @media (max-width: 767px) {
-        .appie-download-content ul li a {
+        .Nearoo-download-content ul li a {
           margin-bottom: 20px; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .appie-download-content ul li a {
+        .Nearoo-download-content ul li a {
           margin-bottom: 0px; } }
-      .appie-download-content ul li a i {
+      .Nearoo-download-content ul li a i {
         font-size: 36px;
         padding-right: 11px; }
-      .appie-download-content ul li a span {
+      .Nearoo-download-content ul li a span {
         font-size: 14px;
         font-weight: 500; }
-        .appie-download-content ul li a span span {
+        .Nearoo-download-content ul li a span span {
           font-size: 24px;
           display: block;
           line-height: 18px; }
-      .appie-download-content ul li a:hover {
+      .Nearoo-download-content ul li a:hover {
         background: #fff;
         color: #0e1133; }
-      .appie-download-content ul li a.item-2 {
+      .Nearoo-download-content ul li a.item-2 {
         background: #fff;
         color: #0e1133; }
-        .appie-download-content ul li a.item-2:hover {
+        .Nearoo-download-content ul li a.item-2:hover {
           background: #0e1133;
           color: #fff; }
 
-.appie-sponser-area {
+.Nearoo-sponser-area {
   position: relative;
   z-index: 10; }
-  .appie-sponser-area .sponser-shape {
+  .Nearoo-sponser-area .sponser-shape {
     position: absolute;
     left: 50%;
     top: 60%;
@@ -5862,9 +5836,9 @@ blockquote cite {
     z-index: -1; }
 
 @media (max-width: 767px) {
-  .appie-sponser-box {
+  .Nearoo-sponser-box {
     flex-wrap: wrap; } }
-.appie-sponser-box .sponser-item {
+.Nearoo-sponser-box .sponser-item {
   background: #fff;
   height: 100px;
   width: 100px;
@@ -5873,70 +5847,70 @@ blockquote cite {
   border-radius: 6px;
   box-shadow: 0px 40px 60px 0px rgba(14, 17, 51, 0.14);
   margin: 30px 16px 0; }
-.appie-sponser-box.item-2 .sponser-item {
+.Nearoo-sponser-box.item-2 .sponser-item {
   margin: 30px 28px 0; }
   @media (max-width: 767px) {
-    .appie-sponser-box.item-2 .sponser-item {
+    .Nearoo-sponser-box.item-2 .sponser-item {
       margin: 30px 16px 0; } }
 
-.appie-download-3-box {
+.Nearoo-download-3-box {
   border-radius: 20px;
   background: #ebf2fc;
   overflow: hidden; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .appie-download-3-box {
+    .Nearoo-download-3-box {
       margin: 30px 0 0; } }
   @media (max-width: 767px) {
-    .appie-download-3-box {
+    .Nearoo-download-3-box {
       margin: 30px 0 0; } }
-  .appie-download-3-box .content {
+  .Nearoo-download-3-box .content {
     padding: 50px; }
     @media (max-width: 767px) {
-      .appie-download-3-box .content {
+      .Nearoo-download-3-box .content {
         padding: 20px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-download-3-box .content {
+      .Nearoo-download-3-box .content {
         padding: 50px; } }
-    .appie-download-3-box .content .title {
+    .Nearoo-download-3-box .content .title {
       font-size: 34px;
       font-weight: 700;
       margin-bottom: 8px; }
-    .appie-download-3-box .content a.main-btn {
+    .Nearoo-download-3-box .content a.main-btn {
       background: #fff;
       color: #0e1133;
       border-color: #fff;
       margin-top: 33px; }
-      .appie-download-3-box .content a.main-btn:hover {
+      .Nearoo-download-3-box .content a.main-btn:hover {
         background: #ff6b58;
         border-color: #ff6b58;
         color: #fff; }
-      .appie-download-3-box .content a.main-btn i {
+      .Nearoo-download-3-box .content a.main-btn i {
         padding-right: 6px; }
-      .appie-download-3-box .content a.main-btn.main-btn-2 {
+      .Nearoo-download-3-box .content a.main-btn.main-btn-2 {
         background: #ff6b58;
         border-color: #ff6b58;
         color: #fff; }
-        .appie-download-3-box .content a.main-btn.main-btn-2:hover {
+        .Nearoo-download-3-box .content a.main-btn.main-btn-2:hover {
           background: #fff;
           color: #0e1133;
           border-color: #fff; }
-  .appie-download-3-box.appie-download-6-box a.main-btn:hover {
+  .Nearoo-download-3-box.Nearoo-download-6-box a.main-btn:hover {
     background: #9b2cfa;
     border-color: #9b2cfa; }
-  .appie-download-3-box.appie-download-6-box a.main-btn.main-btn-2 {
+  .Nearoo-download-3-box.Nearoo-download-6-box a.main-btn.main-btn-2 {
     background: #9b2cfa;
     border-color: #9b2cfa; }
-  .appie-download-3-box.appie-download-5-box a.main-btn:hover {
+  .Nearoo-download-3-box.Nearoo-download-5-box a.main-btn:hover {
     background: #801f82;
     border-color: #801f82; }
-  .appie-download-3-box.appie-download-5-box a.main-btn.main-btn-2 {
+  .Nearoo-download-3-box.Nearoo-download-5-box a.main-btn.main-btn-2 {
     background: #801f82;
     border-color: #801f82; }
 
 /*===========================
-    15.APPIE FUN FACT css 
+    15.Nearoo FUN FACT css 
 ===========================*/
-.appie-fun-fact-box {
+.Nearoo-fun-fact-box {
   background-image: url(../images/fun-fact-bg.jpg);
   padding: 90px 70px;
   background-size: cover;
@@ -5944,71 +5918,71 @@ blockquote cite {
   background-position: center;
   border-radius: 10px; }
   @media (max-width: 767px) {
-    .appie-fun-fact-box {
+    .Nearoo-fun-fact-box {
       padding: 30px; } }
-  .appie-fun-fact-box .appie-fun-fact-content > .title {
+  .Nearoo-fun-fact-box .Nearoo-fun-fact-content > .title {
     font-size: 44px;
     line-height: 54px;
     color: #fff;
     padding-right: 80px;
     padding-bottom: 15px; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
-      .appie-fun-fact-box .appie-fun-fact-content > .title {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-content > .title {
         font-size: 40px;
         line-height: 50px; } }
     @media (max-width: 767px) {
-      .appie-fun-fact-box .appie-fun-fact-content > .title {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-content > .title {
         font-size: 28px;
         line-height: 38px;
         padding-right: 0; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-fun-fact-box .appie-fun-fact-content > .title {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-content > .title {
         font-size: 36px;
         line-height: 46px;
         padding-right: 0; } }
-  .appie-fun-fact-box .appie-fun-fact-content p {
+  .Nearoo-fun-fact-box .Nearoo-fun-fact-content p {
     color: #fff;
     opacity: 0.8; }
-  .appie-fun-fact-box .appie-fun-fact-content .appie-fun-fact-item {
+  .Nearoo-fun-fact-box .Nearoo-fun-fact-content .Nearoo-fun-fact-item {
     margin-top: 36px; }
     @media (max-width: 767px) {
-      .appie-fun-fact-box .appie-fun-fact-content .appie-fun-fact-item {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-content .Nearoo-fun-fact-item {
         text-align: center; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-fun-fact-box .appie-fun-fact-content .appie-fun-fact-item {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-content .Nearoo-fun-fact-item {
         text-align: left; } }
-    .appie-fun-fact-box .appie-fun-fact-content .appie-fun-fact-item .title {
+    .Nearoo-fun-fact-box .Nearoo-fun-fact-content .Nearoo-fun-fact-item .title {
       font-size: 30px;
       color: #fff; }
-    .appie-fun-fact-box .appie-fun-fact-content .appie-fun-fact-item span {
+    .Nearoo-fun-fact-box .Nearoo-fun-fact-content .Nearoo-fun-fact-item span {
       font-size: 14px;
       color: #a4a4b9; }
-  .appie-fun-fact-box .appie-fun-fact-play {
+  .Nearoo-fun-fact-box .Nearoo-fun-fact-play {
     position: relative;
     z-index: 10; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .appie-fun-fact-box .appie-fun-fact-play {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-play {
         margin-top: 50px; } }
     @media (max-width: 767px) {
-      .appie-fun-fact-box .appie-fun-fact-play {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-play {
         margin-top: 50px;
         margin-bottom: 20px;
         text-align: center; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .appie-fun-fact-box .appie-fun-fact-play {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-play {
         text-align: left; } }
-    .appie-fun-fact-box .appie-fun-fact-play img {
+    .Nearoo-fun-fact-box .Nearoo-fun-fact-play img {
       position: absolute;
       right: -40px;
       top: 0;
       z-index: 2; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-fun-fact-box .appie-fun-fact-play img {
+        .Nearoo-fun-fact-box .Nearoo-fun-fact-play img {
           position: static; } }
       @media (max-width: 767px) {
-        .appie-fun-fact-box .appie-fun-fact-play img {
+        .Nearoo-fun-fact-box .Nearoo-fun-fact-play img {
           display: none; } }
-    .appie-fun-fact-box .appie-fun-fact-play a {
+    .Nearoo-fun-fact-box .Nearoo-fun-fact-play a {
       height: 70px;
       width: 70px;
       text-align: center;
@@ -6018,7 +5992,7 @@ blockquote cite {
       color: #ff6b58;
       position: relative;
       z-index: 5; }
-      .appie-fun-fact-box .appie-fun-fact-play a::before {
+      .Nearoo-fun-fact-box .Nearoo-fun-fact-play a::before {
         position: absolute;
         content: '';
         left: 0;
@@ -6030,36 +6004,36 @@ blockquote cite {
         animation: popup 1.5s linear  infinite; }
 
 /*===========================
-    15.APPIE SHOWCASE css 
+    15.Nearoo SHOWCASE css 
 ===========================*/
-.appie-showcase-area {
+.Nearoo-showcase-area {
   background: #eef1f6;
   padding-top: 90px;
   padding-bottom: 120px;
   position: relative;
   overflow: hidden;
   z-index: 10; }
-  .appie-showcase-area .showcase-shape-1 {
+  .Nearoo-showcase-area .showcase-shape-1 {
     position: absolute;
     left: 90px;
     top: 185px;
     z-index: -1;
     animation: linear 25s animationFramesFive infinite; }
-  .appie-showcase-area .showcase-shape-2 {
+  .Nearoo-showcase-area .showcase-shape-2 {
     position: absolute;
     left: 170px;
     bottom: 95px;
     z-index: -1;
     animation: linear 20s animationFramesOne infinite; 
   }
-  .appie-showcase-area .showcase-shape-3 {
+  .Nearoo-showcase-area .showcase-shape-3 {
     position: absolute;
     top: 200px;
     right: 0;
     z-index: -1;
     animation: linear 25s animationFramesThree infinite; 
   }
-  .appie-showcase-area .showcase-shape-4 {
+  .Nearoo-showcase-area .showcase-shape-4 {
     position: absolute;
     bottom: 250px;
     right: 195px;
@@ -6067,7 +6041,7 @@ blockquote cite {
     animation: linear 25s animationFramesFour infinite;
    }
 
-.appie-showcase-item {
+.Nearoo-showcase-item {
   box-shadow: 0px 2px 3px 0px rgba(14, 17, 51, 0.1);
   border-radius: 10px;
   overflow: hidden;
@@ -6078,26 +6052,26 @@ blockquote cite {
   transition: all 0.3s ease-out 0s;
   margin-top: 30px;
   margin-bottom: 50px; }
-  .appie-showcase-item:hover {
+  .Nearoo-showcase-item:hover {
     box-shadow: 0px 40px 40px 0px rgba(14, 17, 51, 0.1);
     transform: translateY(-10px); 
   }
-  .appie-showcase-item a {
+  .Nearoo-showcase-item a {
     display: block; 
   }
-  .appie-showcase-item img {
+  .Nearoo-showcase-item img {
     width: 100%; 
   }
 
-.appie-showcase-slider .slick-dots {
+.Nearoo-showcase-slider .slick-dots {
   position: absolute;
   left: 50%;
   bottom: -20px;
   transform: translateX(-50%);
  }
-  .appie-showcase-slider .slick-dots li {
+  .Nearoo-showcase-slider .slick-dots li {
     display: inline-block; }
-    .appie-showcase-slider .slick-dots li button {
+    .Nearoo-showcase-slider .slick-dots li button {
       font-size: 0;
       border: 0;
       background: #ccced9;
@@ -6105,11 +6079,11 @@ blockquote cite {
       width: 10px;
       border-radius: 50%;
       margin: 0 3px; }
-    .appie-showcase-slider .slick-dots li.slick-active button {
+    .Nearoo-showcase-slider .slick-dots li.slick-active button {
       background: #ff6b58; }
 
 /*===========================
-    16.APPIE CONTACT css 
+    16.Nearoo CONTACT css 
 ===========================*/
 .contact-section {
   position: relative;
@@ -6365,46 +6339,46 @@ blockquote cite {
   box-shadow: 0px 10px 20px 0px rgba(9, 111, 150, 0.3); }
 
 /*===========================
-    17.APPIE CONTACT css 
+    17.Nearoo CONTACT css 
 ===========================*/
-.appie-shop-grid-area .bisylms-pagination {
+.Nearoo-shop-grid-area .bisylms-pagination {
   margin-top: 50px;
   margin-bottom: 50px; }
-  .appie-shop-grid-area .bisylms-pagination .current, .appie-shop-grid-area .bisylms-pagination:hover {
+  .Nearoo-shop-grid-area .bisylms-pagination .current, .Nearoo-shop-grid-area .bisylms-pagination:hover {
     box-shadow: none;
     border-radius: 5px; }
-  .appie-shop-grid-area .bisylms-pagination a {
+  .Nearoo-shop-grid-area .bisylms-pagination a {
     border: 2px solid #e7eaef;
     background: #fff;
     color: #0e1133;
     font-size: 14px;
     font-weight: 500;
     border-radius: 5px; }
-    .appie-shop-grid-area .bisylms-pagination a i {
+    .Nearoo-shop-grid-area .bisylms-pagination a i {
       font-size: 14px;
       padding-left: 6px; }
-    .appie-shop-grid-area .bisylms-pagination a:hover {
+    .Nearoo-shop-grid-area .bisylms-pagination a:hover {
       box-shadow: none;
       background: #ff0000;
       border-color: #ff0000;
       color: #fff; }
-  .appie-shop-grid-area .bisylms-pagination span {
+  .Nearoo-shop-grid-area .bisylms-pagination span {
     border: 2px solid #e7eaef; }
 
-.appie-shop-sidebar .shop-price-filter {
+.Nearoo-shop-sidebar .shop-price-filter {
   border-bottom: 1px solid #e7eaef;
   padding-bottom: 33px; }
-  .appie-shop-sidebar .shop-price-filter .title {
+  .Nearoo-shop-sidebar .shop-price-filter .title {
     font-size: 16px;
     font-weight: 700; }
-  .appie-shop-sidebar .shop-price-filter .price-range {
+  .Nearoo-shop-sidebar .shop-price-filter .price-range {
     width: 100%;
     height: 3px;
     background: #e7eaef;
     margin-top: 33px;
     margin-bottom: 24px;
     position: relative; }
-    .appie-shop-sidebar .shop-price-filter .price-range::before {
+    .Nearoo-shop-sidebar .shop-price-filter .price-range::before {
       position: absolute;
       content: '';
       left: 50%;
@@ -6414,9 +6388,9 @@ blockquote cite {
       background: #ff0000;
       transform: translateX(-50%); }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-shop-sidebar .shop-price-filter .price-range::before {
+        .Nearoo-shop-sidebar .shop-price-filter .price-range::before {
           width: 100%; } }
-    .appie-shop-sidebar .shop-price-filter .price-range .box-1 {
+    .Nearoo-shop-sidebar .shop-price-filter .price-range .box-1 {
       height: 16px;
       width: 16px;
       border-radius: 50%;
@@ -6429,9 +6403,9 @@ blockquote cite {
       box-shadow: 0px 4px 10px 0px rgba(0, 14, 58, 0.2);
       cursor: pointer; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-shop-sidebar .shop-price-filter .price-range .box-1 {
+        .Nearoo-shop-sidebar .shop-price-filter .price-range .box-1 {
           left: 0; } }
-    .appie-shop-sidebar .shop-price-filter .price-range .box-2 {
+    .Nearoo-shop-sidebar .shop-price-filter .price-range .box-2 {
       height: 16px;
       width: 16px;
       border-radius: 50%;
@@ -6444,67 +6418,67 @@ blockquote cite {
       box-shadow: 0px 4px 10px 0px rgba(0, 14, 58, 0.2);
       cursor: pointer; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .appie-shop-sidebar .shop-price-filter .price-range .box-2 {
+        .Nearoo-shop-sidebar .shop-price-filter .price-range .box-2 {
           right: 0; } }
-  .appie-shop-sidebar .shop-price-filter .main-filter-price span {
+  .Nearoo-shop-sidebar .shop-price-filter .main-filter-price span {
     font-size: 14px;
     color: #63636a; }
-  .appie-shop-sidebar .shop-price-filter .main-filter-price a {
+  .Nearoo-shop-sidebar .shop-price-filter .main-filter-price a {
     font-size: 14px;
     color: #0e1133; }
-.appie-shop-sidebar .shop-category-widget {
+.Nearoo-shop-sidebar .shop-category-widget {
   margin-top: 37px;
   border-bottom: 1px solid #e7eaef;
   padding-bottom: 33px; }
-  .appie-shop-sidebar .shop-category-widget .title {
+  .Nearoo-shop-sidebar .shop-category-widget .title {
     font-size: 16px;
     font-weight: 700;
     margin-bottom: 25px; }
-  .appie-shop-sidebar .shop-category-widget ul li {
+  .Nearoo-shop-sidebar .shop-category-widget ul li {
     margin-top: 10px; }
-    .appie-shop-sidebar .shop-category-widget ul li a {
+    .Nearoo-shop-sidebar .shop-category-widget ul li a {
       font-size: 15px;
       color: #63636a; }
-      .appie-shop-sidebar .shop-category-widget ul li a:hover {
+      .Nearoo-shop-sidebar .shop-category-widget ul li a:hover {
         color: #ff0000; }
-.appie-shop-sidebar .shop-best-product-widget {
+.Nearoo-shop-sidebar .shop-best-product-widget {
   margin-top: 37px;
   border-bottom: 1px solid #e7eaef;
   padding-bottom: 40px; }
-  .appie-shop-sidebar .shop-best-product-widget .title {
+  .Nearoo-shop-sidebar .shop-best-product-widget .title {
     padding-bottom: 10px;
     font-size: 16px;
     font-weight: 700; }
-  .appie-shop-sidebar .shop-best-product-widget .shop-product {
+  .Nearoo-shop-sidebar .shop-best-product-widget .shop-product {
     display: flex;
     align-items: center;
     margin-top: 20px; }
-    .appie-shop-sidebar .shop-best-product-widget .shop-product .thumb {
+    .Nearoo-shop-sidebar .shop-best-product-widget .shop-product .thumb {
       max-width: 60px;
       margin-right: 20px; }
-    .appie-shop-sidebar .shop-best-product-widget .shop-product .content a {
+    .Nearoo-shop-sidebar .shop-best-product-widget .shop-product .content a {
       display: block;
       font-size: 14px;
       font-weight: 500;
       color: #ff0000;
       color: #0e1133; }
-    .appie-shop-sidebar .shop-best-product-widget .shop-product .content span {
+    .Nearoo-shop-sidebar .shop-best-product-widget .shop-product .content span {
       font-size: 14px;
       font-weight: 400;
       color: #63636a; }
-.appie-shop-sidebar .shop-tags-bar {
+.Nearoo-shop-sidebar .shop-tags-bar {
   margin-top: 37px; }
-  .appie-shop-sidebar .shop-tags-bar .title {
+  .Nearoo-shop-sidebar .shop-tags-bar .title {
     padding-bottom: 10px;
     font-size: 16px;
     font-weight: 700; }
-  .appie-shop-sidebar .shop-tags-bar ul {
+  .Nearoo-shop-sidebar .shop-tags-bar ul {
     margin: 0;
     padding: 0;
     list-style-type: none; }
-    .appie-shop-sidebar .shop-tags-bar ul li {
+    .Nearoo-shop-sidebar .shop-tags-bar ul li {
       display: inline-block; }
-      .appie-shop-sidebar .shop-tags-bar ul li a {
+      .Nearoo-shop-sidebar .shop-tags-bar ul li a {
         border: 2px solid #e7eaef;
         line-height: 30px;
         padding: 0 13px;
@@ -6993,12 +6967,17 @@ blockquote cite {
   display: none;
 }
 
-.appie-header-main-menu ul > li > a i {
+.Nearoo-header-main-menu ul > li > a i {
 	padding-left: 6px;
     font-family: 'Font Awesome 5 Pro';
 }
 i {font-family: 'Font Awesome 5 Pro';
 }
 
+.text-slider-items {
+  display: none;
+}
 
-
+.text-slider{
+  color: #ff0000;
+}
