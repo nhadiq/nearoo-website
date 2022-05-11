@@ -19,13 +19,6 @@
 /*===========================
     1. COMMON css 
 ===========================*/
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
-body {
-  font-family: "Roboto", sans-serif;
-  font-weight: normal;
-  font-style: normal;
-  color: #505056;
-  overflow-x: hidden; }
 
 * {
   margin: 0;
@@ -55,16 +48,6 @@ a {
   display: inline-block;
   transition: all linear 0.3s; }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
-  color: #0e1133;
-  margin: 0px; }
 
 h1 {
   font-size: 48px; }
@@ -1518,7 +1501,7 @@ transform: scaleY(1);
 }
 .mega-recent-post-text h5 {
 	font-size: 16px;
-	font-family: roboto;
+	font-family: poppins;
 	font-weight: 400;
 	line-height: 20px;
 	font-weight: 500;
@@ -2872,7 +2855,7 @@ transform: scaleY(1);
     6.Nearoo TRAFFICE css 
 ===========================*/
 .Nearoo-testimonial-area {
-  background-image: url(../images/testimonial-bg.png);
+  background-image: url(../images/page-title-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat; }
