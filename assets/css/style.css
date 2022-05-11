@@ -2167,7 +2167,7 @@ transform: scaleY(1);
   align-items: center; }
   .Nearoo-page-title-area.Nearoo-page-service-title-area {
     height: 650px;
-    background-image: url(../images/page-title-bg.jpg); }
+    background-image: url(../images/page-title-bg.png); }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .Nearoo-page-title-area.Nearoo-page-service-title-area {
         height: 500px; } }
@@ -2235,7 +2235,6 @@ transform: scaleY(1);
 .Nearoo-service-area {
   background: #eef1f6;
   position: relative;
-  background-image: url(../images/shape/shape-1.png);
   background-position: 92% 100%;
   background-repeat: no-repeat;
   background-size: auto; }
@@ -2855,7 +2854,7 @@ transform: scaleY(1);
     6.Nearoo TRAFFICE css 
 ===========================*/
 .Nearoo-testimonial-area {
-  background-image: url(../images/page-title-bg.jpg);
+  background-image: url(../images/page-title-bg.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat; }
