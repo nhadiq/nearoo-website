@@ -1,0 +1,27 @@
+name: Build Production
+on:
+  push:
+    branches:
+      - prodMaster
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-18.04       
+    steps:
+    - uses: actions/checkout@v2
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_KEY }}
+        aws-region: me-south-1
+
+    - name: Deploy to S3
+      run: |
+        aws s3 rm s3://${{ secrets.NEAROO_WEBSITE_S3 }} --recursive --quiet
+        aws s3 cp . s3://${{ secrets.NEAROO_WEBSITE_S3 }} --recursive --quiet
+              
+    - name: invalidate cloudfront
+      run: |
+        AWS_INVALIDATION_ID_NEAROO=$(aws cloudfront create-invalidation --distribution-id ${{ secrets.NEAROO_WEBSITE_CLOUDFRONT }} --paths '/*' --query 'Invalidation.Id' --output text)
+        aws cloudfront wait invalidation-completed --distribution-id ${{ secrets.NEAROO_WEBSITE_CLOUDFRONT }} --id $AWS_INVALIDATION_ID_NEAROO
