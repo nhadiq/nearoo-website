@@ -6963,3 +6963,49 @@ i {font-family: 'Font Awesome 5 Pro';
 .text-slider{
   color: #ff0000;
 }
+
+.Nearoo-video-header-overlay{
+  z-index: 0;
+}
+
+.Nearoo-video-container
+{
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  z-index: 2;
+}
+
+.Nearoo-video-container h1{
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: -50px;
+}
+
+.Nearoo-video-container p{
+  color: #fff;
+  font-size: 18px;
+  text-align: left;
+}
+
+
+@media screen and (max-width: 768px) {
+  .Nearoo-video-container h1{
+    font-size: 30px;
+    margin-top: -25px;
+  }
+  .Nearoo-video-container
+{
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  z-index: 2;
+}
+.Nearoo-video-container p{
+  color: #fff;
+  font-size: 18px;
+  text-align: left;
+}
+}
