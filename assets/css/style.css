@@ -9709,13 +9709,53 @@ i {
   }
 }
 
+.Nearoo-explanation-item-2 .icon i {
+  color: #db0f30;
+  background-color: #fef3f5;
+  border-radius: 50% 50% 50% 50% / 50% 75% 25% 50%;
+}
 
-.Nearoo-project-3-area .icon i {
-  height: 50px;
-  width: 50px;
+.Nearoo-explanation-item-3 .icon i {
+  color: #ff0000;
+  background-color: #f7eeff;
+  border-radius: 25% 75% 50% 50% / 50% 50% 50% 50%;
+}
+
+.Nearoo-explanation-item-4 .icon i {
+  color: #f8452d;
+  background-color: #fef0ee;
+  border-radius: 40% 60% 40% 60% / 40% 60% 40% 60%;
+}
+
+.Nearoo-explanation-item-5 .icon i {
+  color: #31c369;
+  background-color: #f4fcf7;
+  border-radius: 33% 67% 50% 50% / 61% 72% 28% 39%;
+}
+
+.Nearoo-explanation-item-6 .icon i {
+  color: #f6ac0e;
+  background-color: #fef7e7;
+  border-radius: 21% 79% 58% 42% / 50% 46% 54% 50%;
+}
+.Nearoo-explanation .icon i {
+  height: 30px;
+  width: 30px;
   text-align: center;
-  line-height: 50px;
-  background: #2eacfc;
-  color: #fff;
+  line-height: 30px;
   border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+.Nearoo-explanation-bullet{
+ line-height: 30px;
+ padding-left: 10px;
 }
